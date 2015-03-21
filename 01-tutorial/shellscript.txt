@@ -4,3 +4,15 @@ mkdir scripts
 
 echo $PATH  - to see current list of locations where scripts can be reached
 
+Add your new scripts directory to path if it isn't already there in .bash_profile
+
+export PATH=$PATH:/Users/MacBook/01-pcfb/01-tutorial/scripts
+
+Make a new script called dir.sh
+
+give it permissions - from the scripts directory
+
+chmod u+x dir.sh
+
+
+
