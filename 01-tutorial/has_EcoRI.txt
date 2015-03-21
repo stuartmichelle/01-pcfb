@@ -1,0 +1,5 @@
+../02-examples/FEC00002_1.seq
+../02-examples/FEC00004_1.seq
+../02-examples/FEC00005_1.seq
+../02-examples/FEC00005_2.seq
+../02-examples/FEC00006_1.seq

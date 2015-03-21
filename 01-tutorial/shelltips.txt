@@ -103,7 +103,63 @@ You can use pipe to redirect the output of one command directly to the input of 
 
 history | grep Toolik
 
+Output:
+492  grep "Toolik Lake" ../02-examples/shaver_etal.csv 
+  493  grep "Toolik Lake" ../02-examples/shaver_etal.csv > toolik.csv
+  496  grep "Aug.*Toolik Lake" ../02-examples/shaver_etal.csv > toolik2.csv
+  498  grep -v "Toolik Lake" ../02-examples/shaver_etal.csv git 
+  504  history | grep Toolik
 
+  Earlier we searched for two terms, Aug and Toolik using one grep, but if we wanted to make only one of these case sensitive, or invert one search and not the other, we could do it this way:
+
+  grep "Aug" ../02-examples/shaver_etal.csv | grep "Toolik" > toola2.csv
+
+We can search across multiple files by using cat to join the files and then grep to search the whole group:
+
+cat ../02-examples/*.seq | grep ">"
+
+Output - the entire line of text that contains that symbol...
+>Fe_MM1_01A01
+>Fe_MM1_01A02
+>Fe_MM1_01A03
+>Fe_MM1_01A04
+>Fe_MM1_01A05
+>Fe_MM1_01A06
+>Fe_MM1_01A07
+>Fe_MM1_01A08
+>Fe_MM1_01A09
+>Fe_MM1_01A10
+
+If you want to see the line with the search pattern AND the name of the file in which it was found, just use a wildcard
+
+MacBook (master) 01-tutorial $ grep ">" ../02-examples/*.seq
+
+Output:
+../02-examples/FEC00001_1.seq:>Fe_MM1_01A01
+../02-examples/FEC00002_1.seq:>Fe_MM1_01A02
+../02-examples/FEC00003_1.seq:>Fe_MM1_01A03
+../02-examples/FEC00004_1.seq:>Fe_MM1_01A04
+../02-examples/FEC00005_1.seq:>Fe_MM1_01A05
+../02-examples/FEC00005_2.seq:>Fe_MM1_01A06
+../02-examples/FEC00006_1.seq:>Fe_MM1_01A07
+../02-examples/FEC00007_1.seq:>Fe_MM1_01A08
+../02-examples/FEC00007_2.seq:>Fe_MM1_01A09
+../02-examples/FEC00007_3.seq:>Fe_MM1_01A10
+
+If you just want to see the name of the file and not the line, use -l
+
+MacBook (master) 01-tutorial $ grep -l "GAATTC" ../02-examples/*.seq
+../02-examples/FEC00002_1.seq
+../02-examples/FEC00004_1.seq
+../02-examples/FEC00005_1.seq
+../02-examples/FEC00005_2.seq
+../02-examples/FEC00006_1.seq
+
+And we can generate a new file with those filenames:
+grep -l "GAATTC" ../02-examples/*.seq > has_EcoRI.txt
+
+If you want to count the number of sample files that process_radtags has generated:
+ls ./*.fq > fasta.txt | wc fasta.txt
 
 
 
