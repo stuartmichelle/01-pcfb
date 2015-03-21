@@ -1,0 +1,6 @@
+Make a directory to hold scripts
+
+mkdir scripts
+
+echo $PATH  - to see current list of locations where scripts can be reached
+
