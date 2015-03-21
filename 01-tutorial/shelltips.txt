@@ -89,6 +89,18 @@ grep "Toolik Lake" ../02-examples/shaver_etal.csv > toolik.csv
 
 This new file doesnt' have a header but you can copy and paste one over from the original file using nano, subl, or create a file with only the header and use cat to join it to the new file.
 
+command line regex is different than text editor regex, so instead of \d use [0-9]
+
+Create a file that only has Toolik Lake data from August.
+
+grep "Aug.*Toolik Lake" ../02-examples/shaver_etal.csv > toolik2.csv
+
+if you want to exclude something from your search use -v...find all of the records that do not contain Toolik Lake:
+
+grep -v "Toolik Lake" ../02-examples/shaver_etal.csv
+
+
+
 
 
 
