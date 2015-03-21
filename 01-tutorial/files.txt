@@ -1,0 +1,10 @@
+-rw-r--r--@ 1 MacBook  staff  526 Nov  8  2011 ../02-examples/FEC00001_1.seq
+-rw-r--r--@ 1 MacBook  staff  602 Nov  8  2011 ../02-examples/FEC00002_1.seq
+-rw-r--r--@ 1 MacBook  staff  540 Nov  8  2011 ../02-examples/FEC00003_1.seq
+-rw-r--r--@ 1 MacBook  staff  624 Nov  8  2011 ../02-examples/FEC00004_1.seq
+-rw-r--r--@ 1 MacBook  staff  492 Nov  8  2011 ../02-examples/FEC00005_1.seq
+-rw-r--r--@ 1 MacBook  staff  550 Nov  8  2011 ../02-examples/FEC00005_2.seq
+-rw-r--r--@ 1 MacBook  staff  497 Nov  8  2011 ../02-examples/FEC00006_1.seq
+-rw-r--r--@ 1 MacBook  staff  457 Nov  8  2011 ../02-examples/FEC00007_1.seq
+-rw-r--r--@ 1 MacBook  staff  503 Nov  8  2011 ../02-examples/FEC00007_2.seq
+-rw-r--r--@ 1 MacBook  staff  571 Nov  8  2011 ../02-examples/FEC00007_3.seq

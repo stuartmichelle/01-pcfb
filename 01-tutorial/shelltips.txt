@@ -1,0 +1,12 @@
+To redirect output to a file use >
+
+Redirect the output of the following command to a new file (files.txt)
+
+ls -l ../02-examples/*.seq > files.txt
+
+Now there is a files.txt file in this directory that has the output of the ls -l command as contents. - this could be helpful when trying to make a list for cstacks using the old method.  Instead of keeping the samples files around, just make a list of them and then save that file.
+
+cat will show ALL of the contents of a file, less shows just a little bit...
+
+cat ../02-examples/FEC00001_1.seq
+
