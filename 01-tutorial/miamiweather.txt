@@ -1,0 +1,888 @@
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/1/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,81.0,73.9,79,30.12,7.0,SW,5.8,-,N/A,,Clear,220,1992-08-01 04:00:00<br />
+1:00 AM,80.1,73.9,81,30.13,7.0,WNW,4.6,-,N/A,,Scattered Clouds,290,1992-08-01 05:00:00<br />
+2:00 AM,79.0,73.9,84,30.12,7.0,SW,2.3,-,N/A,,Scattered Clouds,220,1992-08-01 06:00:00<br />
+3:00 AM,79.0,73.9,84,30.11,7.0,WNW,2.3,-,N/A,,Scattered Clouds,300,1992-08-01 07:00:00<br />
+4:00 AM,79.0,73.9,84,30.08,7.0,West,4.6,-,N/A,,Clear,280,1992-08-01 08:00:00<br />
+5:00 AM,78.1,73.9,87,30.08,7.0,South,2.3,-,N/A,,Clear,180,1992-08-01 09:00:00<br />
+6:00 AM,79.0,73.0,82,30.09,7.0,WNW,4.6,-,N/A,,Clear,300,1992-08-01 10:00:00<br />
+7:00 AM,79.0,73.0,82,30.10,7.0,WNW,2.3,-,N/A,,Partly Cloudy,300,1992-08-01 11:00:00<br />
+8:00 AM,80.1,73.9,81,30.11,7.0,WNW,3.5,-,N/A,,Partly Cloudy,290,1992-08-01 12:00:00<br />
+9:00 AM,84.9,73.9,69,30.12,7.0,SW,2.3,-,N/A,,Partly Cloudy,220,1992-08-01 13:00:00<br />
+10:00 AM,87.1,73.0,63,30.12,7.0,South,2.3,-,N/A,,Scattered Clouds,180,1992-08-01 14:00:00<br />
+11:00 AM,90.0,72.0,55,30.12,7.0,SW,3.5,-,N/A,,Scattered Clouds,230,1992-08-01 15:00:00<br />
+12:00 PM,89.1,72.0,57,30.12,7.0,ENE,3.5,-,N/A,,Scattered Clouds,70,1992-08-01 16:00:00<br />
+1:00 PM,91.9,72.0,52,30.11,7.0,SW,4.6,-,N/A,,Scattered Clouds,220,1992-08-01 17:00:00<br />
+2:00 PM,88.0,72.0,59,30.11,7.0,SE,10.4,-,0.12,Rain,Rain Showers,140,1992-08-01 18:00:00<br />
+3:00 PM,89.1,71.1,55,30.09,7.0,South,10.4,-,0.03,,Scattered Clouds,170,1992-08-01 19:00:00<br />
+4:00 PM,91.0,71.1,52,30.07,7.0,SE,11.5,-,N/A,,Scattered Clouds,140,1992-08-01 20:00:00<br />
+5:00 PM,90.0,70.0,52,30.06,7.0,ESE,12.7,-,N/A,,Scattered Clouds,120,1992-08-01 21:00:00<br />
+6:00 PM,88.0,71.1,57,30.06,7.0,SE,11.5,-,N/A,,Unknown,140,1992-08-01 22:00:00<br />
+7:00 PM,88.0,71.1,57,30.06,7.0,SE,11.5,-,N/A,,Unknown,130,1992-08-01 23:00:00<br />
+8:00 PM,84.9,73.0,67,30.09,7.0,SE,9.2,-,N/A,,Scattered Clouds,140,1992-08-02 00:00:00<br />
+9:00 PM,82.9,75.0,77,30.09,7.0,SE,10.4,-,N/A,,Scattered Clouds,140,1992-08-02 01:00:00<br />
+10:00 PM,84.0,75.0,74,30.11,7.0,SE,8.1,-,N/A,,Scattered Clouds,130,1992-08-02 02:00:00<br />
+11:00 PM,82.9,75.0,77,30.12,7.0,SE,8.1,-,N/A,,Scattered Clouds,130,1992-08-02 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/2/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,75.0,79,30.12,7.0,WSW,4.6,-,N/A,,Scattered Clouds,240,1992-08-02 04:00:00<br />
+1:00 AM,82.0,75.0,79,30.12,7.0,WSW,6.9,-,N/A,,Scattered Clouds,240,1992-08-02 05:00:00<br />
+2:00 AM,80.1,73.0,79,30.09,7.0,South,4.6,-,N/A,,Scattered Clouds,170,1992-08-02 06:00:00<br />
+3:00 AM,80.1,73.9,81,30.08,7.0,SSE,4.6,-,N/A,,Scattered Clouds,150,1992-08-02 07:00:00<br />
+4:00 AM,80.1,73.9,81,30.07,7.0,NW,5.8,-,N/A,,Scattered Clouds,310,1992-08-02 08:00:00<br />
+5:00 AM,80.1,73.9,81,30.06,7.0,NNW,4.6,-,N/A,,Scattered Clouds,340,1992-08-02 09:00:00<br />
+6:00 AM,80.1,73.9,81,30.07,7.0,NNW,3.5,-,N/A,,Scattered Clouds,330,1992-08-02 10:00:00<br />
+7:00 AM,79.0,75.0,88,30.08,7.0,NNW,6.9,-,N/A,,Scattered Clouds,340,1992-08-02 11:00:00<br />
+8:00 AM,81.0,75.0,82,30.08,7.0,North,6.9,-,N/A,,Scattered Clouds,350,1992-08-02 12:00:00<br />
+9:00 AM,84.9,75.0,72,30.09,7.0,North,5.8,-,N/A,,Scattered Clouds,10,1992-08-02 13:00:00<br />
+10:00 AM,87.1,73.0,63,30.10,7.0,ESE,4.6,-,N/A,,Scattered Clouds,120,1992-08-02 14:00:00<br />
+11:00 AM,89.1,71.1,55,30.11,7.0,ESE,4.6,-,N/A,,Scattered Clouds,120,1992-08-02 15:00:00<br />
+12:00 PM,90.0,72.0,55,30.11,7.0,NE,9.2,-,N/A,,Scattered Clouds,50,1992-08-02 16:00:00<br />
+1:00 PM,90.0,71.1,54,30.10,7.0,NE,6.9,-,N/A,,Scattered Clouds,50,1992-08-02 17:00:00<br />
+2:00 PM,91.0,71.1,52,30.09,7.0,ESE,11.5,-,N/A,,Scattered Clouds,120,1992-08-02 18:00:00<br />
+3:00 PM,91.0,70.0,50,30.07,7.0,ESE,11.5,-,N/A,,Scattered Clouds,110,1992-08-02 19:00:00<br />
+4:00 PM,91.0,70.0,50,30.07,7.0,East,12.7,-,N/A,,Scattered Clouds,100,1992-08-02 20:00:00<br />
+5:00 PM,89.1,68.0,50,30.06,7.0,ESE,12.7,-,N/A,,Unknown,120,1992-08-02 21:00:00<br />
+6:00 PM,87.1,73.0,63,30.04,7.0,ESE,15.0,-,N/A,,Mostly Cloudy,120,1992-08-02 22:00:00<br />
+7:00 PM,87.1,73.0,63,30.03,7.0,SE,9.2,-,N/A,,Mostly Cloudy,130,1992-08-02 23:00:00<br />
+8:00 PM,86.0,71.1,61,30.04,7.0,East,9.2,-,N/A,,Mostly Cloudy,90,1992-08-03 00:00:00<br />
+9:00 PM,84.9,73.9,69,30.07,7.0,East,11.5,-,N/A,,Mostly Cloudy,90,1992-08-03 01:00:00<br />
+10:00 PM,84.9,73.0,67,30.09,7.0,ESE,11.5,-,N/A,,Overcast,110,1992-08-03 02:00:00<br />
+11:00 PM,84.0,73.9,72,30.11,7.0,ESE,12.7,-,N/A,,Scattered Clouds,120,1992-08-03 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/3/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.9,73.0,72,30.09,7.0,SE,10.4,-,N/A,,Scattered Clouds,130,1992-08-03 04:00:00<br />
+1:00 AM,82.0,73.0,74,30.09,7.0,SSE,9.2,-,N/A,,Scattered Clouds,160,1992-08-03 05:00:00<br />
+2:00 AM,82.0,73.9,76,30.07,7.0,South,6.9,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,180,1992-08-03 06:00:00<br />
+2:03 AM,-9999,-9999,N/A,30.07,3.0,South,20.7,28.8,N/A,Rain-Thunderstorm,Thunderstorms and Rain,170,1992-08-03 06:03:00<br />
+2:11 AM,-9999,-9999,N/A,30.08,0.8,SSW,15.0,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,210,1992-08-03 06:11:00<br />
+2:20 AM,-9999,-9999,N/A,30.08,7.0,South,12.7,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,190,1992-08-03 06:20:00<br />
+3:00 AM,78.1,75.0,90,30.07,7.0,SW,9.2,-,0.52,Rain-Thunderstorm,Thunderstorms and Rain,230,1992-08-03 07:00:00<br />
+4:00 AM,77.0,73.0,88,30.04,7.0,SW,4.6,-,N/A,,Mostly Cloudy,220,1992-08-03 08:00:00<br />
+5:00 AM,77.0,73.0,88,30.03,7.0,NW,3.5,-,N/A,,Mostly Cloudy,320,1992-08-03 09:00:00<br />
+6:00 AM,77.0,72.0,84,30.03,7.0,NW,3.5,-,N/A,,Mostly Cloudy,310,1992-08-03 10:00:00<br />
+7:00 AM,77.0,73.0,88,30.03,7.0,SSW,3.5,-,N/A,,Mostly Cloudy,200,1992-08-03 11:00:00<br />
+8:00 AM,79.0,73.0,82,30.04,7.0,SW,5.8,-,N/A,,Scattered Clouds,220,1992-08-03 12:00:00<br />
+9:00 AM,82.9,75.0,77,30.06,7.0,SSW,4.6,-,N/A,,Scattered Clouds,210,1992-08-03 13:00:00<br />
+10:00 AM,84.9,73.9,69,30.08,7.0,West,8.1,-,N/A,,Scattered Clouds,260,1992-08-03 14:00:00<br />
+11:00 AM,86.0,73.0,65,30.08,7.0,WSW,8.1,-,N/A,,Scattered Clouds,250,1992-08-03 15:00:00<br />
+12:00 PM,84.0,71.1,65,30.07,7.0,WSW,6.9,-,N/A,Rain,Light Rain Showers,250,1992-08-03 16:00:00<br />
+1:00 PM,84.9,73.0,67,30.06,7.0,SW,3.5,-,N/A,,Scattered Clouds,230,1992-08-03 17:00:00<br />
+1:12 PM,-9999,-9999,N/A,30.06,7.0,South,13.8,-,N/A,Thunderstorm,Thunderstorm,170,1992-08-03 17:12:00<br />
+2:00 PM,78.1,72.0,81,30.06,7.0,South,16.1,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,180,1992-08-03 18:00:00<br />
+2:12 PM,-9999,-9999,N/A,30.04,7.0,SSE,9.2,-,N/A,Rain,Light Rain,150,1992-08-03 18:12:00<br />
+3:00 PM,75.9,73.0,91,30.06,7.0,SSW,8.1,-,0.04,Rain,Light Rain,200,1992-08-03 19:00:00<br />
+4:00 PM,81.0,73.0,77,30.04,7.0,SSW,9.2,-,N/A,,Mostly Cloudy,210,1992-08-03 20:00:00<br />
+5:00 PM,82.9,73.0,72,30.03,7.0,SSW,4.6,-,N/A,,Mostly Cloudy,210,1992-08-03 21:00:00<br />
+6:00 PM,82.9,73.0,72,30.03,7.0,North,4.6,-,N/A,,Mostly Cloudy,360,1992-08-03 22:00:00<br />
+7:00 PM,82.0,73.9,76,30.04,7.0,NNE,9.2,-,N/A,,Unknown,30,1992-08-03 23:00:00<br />
+8:00 PM,82.0,73.9,76,30.04,7.0,SSE,3.5,-,N/A,,Overcast,150,1992-08-04 00:00:00<br />
+9:00 PM,81.0,73.0,77,30.04,7.0,NE,3.5,-,N/A,,Mostly Cloudy,50,1992-08-04 01:00:00<br />
+10:00 PM,81.0,73.0,77,30.05,7.0,SSW,4.6,-,N/A,,Mostly Cloudy,200,1992-08-04 02:00:00<br />
+11:00 PM,80.1,73.9,81,30.07,7.0,SW,3.5,-,N/A,,Mostly Cloudy,230,1992-08-04 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/4/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,80.1,73.9,81,30.06,7.0,West,3.5,-,N/A,,Mostly Cloudy,280,1992-08-04 04:00:00<br />
+1:00 AM,79.0,73.0,82,30.06,7.0,SSW,6.9,-,N/A,,Mostly Cloudy,210,1992-08-04 05:00:00<br />
+2:00 AM,79.0,73.0,82,30.04,7.0,SSE,6.9,-,N/A,,Mostly Cloudy,150,1992-08-04 06:00:00<br />
+3:00 AM,77.0,73.9,90,30.03,7.0,SSE,5.8,-,N/A,,Mostly Cloudy,150,1992-08-04 07:00:00<br />
+4:00 AM,77.0,73.0,88,30.03,7.0,WNW,4.6,-,N/A,,Scattered Clouds,290,1992-08-04 08:00:00<br />
+5:00 AM,77.0,73.9,90,30.01,7.0,WSW,4.6,-,N/A,,Clear,240,1992-08-04 09:00:00<br />
+6:00 AM,79.0,73.0,82,30.02,7.0,WSW,3.5,-,N/A,,Clear,240,1992-08-04 10:00:00<br />
+7:00 AM,78.1,73.0,84,30.03,7.0,SSE,3.5,-,N/A,,Scattered Clouds,150,1992-08-04 11:00:00<br />
+8:00 AM,80.1,75.0,85,30.04,7.0,South,5.8,-,N/A,,Scattered Clouds,170,1992-08-04 12:00:00<br />
+9:00 AM,82.9,73.0,72,30.06,7.0,South,6.9,-,N/A,,Scattered Clouds,180,1992-08-04 13:00:00<br />
+10:00 AM,87.1,73.0,63,30.07,7.0,SSE,8.1,-,N/A,,Scattered Clouds,160,1992-08-04 14:00:00<br />
+11:00 AM,88.0,72.0,59,30.07,7.0,South,4.6,-,N/A,,Scattered Clouds,180,1992-08-04 15:00:00<br />
+12:00 PM,90.0,70.0,52,30.06,7.0,South,8.1,-,N/A,,Mostly Cloudy,170,1992-08-04 16:00:00<br />
+1:00 PM,91.0,73.9,57,30.05,7.0,SSE,11.5,-,N/A,,Mostly Cloudy,160,1992-08-04 17:00:00<br />
+2:00 PM,90.0,73.0,57,30.04,7.0,SE,13.8,-,N/A,,Scattered Clouds,130,1992-08-04 18:00:00<br />
+3:00 PM,89.1,72.0,57,30.02,7.0,SSE,13.8,-,N/A,,Scattered Clouds,150,1992-08-04 19:00:00<br />
+4:00 PM,87.1,73.0,63,30.01,7.0,South,17.3,-,N/A,,Scattered Clouds,180,1992-08-04 20:00:00<br />
+5:00 PM,87.1,72.0,61,30.02,7.0,South,13.8,-,N/A,,Mostly Cloudy,180,1992-08-04 21:00:00<br />
+6:00 PM,86.0,73.9,67,30.03,7.0,South,11.5,-,N/A,,Mostly Cloudy,180,1992-08-04 22:00:00<br />
+7:00 PM,84.9,73.0,67,30.04,7.0,South,9.2,-,N/A,,Mostly Cloudy,190,1992-08-04 23:00:00<br />
+8:00 PM,84.0,73.0,69,30.06,7.0,WSW,3.5,-,N/A,,Mostly Cloudy,240,1992-08-05 00:00:00<br />
+9:00 PM,84.0,73.0,69,30.06,7.0,NNE,3.5,-,N/A,,Overcast,30,1992-08-05 01:00:00<br />
+10:00 PM,82.0,73.0,74,30.07,7.0,NNW,4.6,-,N/A,,Overcast,340,1992-08-05 02:00:00<br />
+11:00 PM,82.0,73.9,76,30.09,7.0,NW,5.8,-,N/A,,Unknown,320,1992-08-05 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/5/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,75.0,79,30.09,7.0,North,5.8,-,N/A,,Overcast,10,1992-08-05 04:00:00<br />
+1:00 AM,81.0,73.9,79,30.09,7.0,NE,6.9,-,N/A,,Mostly Cloudy,40,1992-08-05 05:00:00<br />
+2:00 AM,81.0,75.9,85,30.07,7.0,NE,5.8,-,N/A,,Mostly Cloudy,50,1992-08-05 06:00:00<br />
+3:00 AM,80.1,75.9,87,30.04,7.0,NE,3.5,-,N/A,,Mostly Cloudy,50,1992-08-05 07:00:00<br />
+4:00 AM,82.0,75.9,82,30.03,7.0,East,5.8,-,N/A,,Mostly Cloudy,90,1992-08-05 08:00:00<br />
+5:00 AM,81.0,75.9,85,30.03,7.0,East,6.9,-,N/A,,Overcast,100,1992-08-05 09:00:00<br />
+6:00 AM,81.0,75.9,85,30.04,7.0,SE,8.1,-,N/A,,Overcast,130,1992-08-05 10:00:00<br />
+7:00 AM,82.0,75.0,79,30.04,7.0,SE,5.8,-,N/A,,Mostly Cloudy,130,1992-08-05 11:00:00<br />
+8:00 AM,82.9,75.9,79,30.07,7.0,ESE,5.8,-,N/A,,Mostly Cloudy,120,1992-08-05 12:00:00<br />
+9:00 AM,84.0,75.9,76,30.08,7.0,ESE,6.9,-,N/A,,Mostly Cloudy,120,1992-08-05 13:00:00<br />
+10:00 AM,79.0,75.9,90,30.10,7.0,North,8.1,-,0.06,Rain-Thunderstorm,Thunderstorms and Rain,350,1992-08-05 14:00:00<br />
+10:17 AM,-9999,-9999,N/A,30.11,7.0,North,8.1,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,360,1992-08-05 14:17:00<br />
+10:32 AM,-9999,-9999,N/A,30.10,7.0,East,5.8,-,N/A,Rain,Rain,90,1992-08-05 14:32:00<br />
+11:00 AM,79.0,75.9,90,30.12,7.0,North,5.8,-,0.09,Rain,Light Rain,350,1992-08-05 15:00:00<br />
+12:00 PM,78.1,75.9,93,30.12,6.0,NW,5.8,-,0.02,Fog-Rain,Light Rain,320,1992-08-05 16:00:00<br />
+1:00 PM,82.0,78.1,88,30.12,6.0,North,8.1,-,0.01,,Smoke,360,1992-08-05 17:00:00<br />
+2:00 PM,82.9,77.0,82,30.12,6.0,NNW,8.1,-,N/A,,Smoke,330,1992-08-05 18:00:00<br />
+3:00 PM,86.0,75.9,72,30.09,7.0,North,8.1,-,N/A,,Overcast,10,1992-08-05 19:00:00<br />
+4:00 PM,86.0,75.9,72,30.08,7.0,NE,8.1,-,N/A,,Overcast,40,1992-08-05 20:00:00<br />
+5:00 PM,86.0,75.9,72,30.07,7.0,ENE,10.4,-,N/A,,Mostly Cloudy,70,1992-08-05 21:00:00<br />
+5:01 PM,-9999,-9999,N/A,30.08,7.0,NNE,9.2,-,N/A,Thunderstorm,Thunderstorm,30,1992-08-05 21:01:00<br />
+6:00 PM,86.0,73.9,67,30.09,7.0,NE,9.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,50,1992-08-05 22:00:00<br />
+6:11 PM,-9999,-9999,N/A,30.09,7.0,ENE,9.2,-,N/A,,Mostly Cloudy,70,1992-08-05 22:11:00<br />
+7:00 PM,84.9,73.9,69,30.09,7.0,NE,9.2,-,N/A,,Mostly Cloudy,50,1992-08-05 23:00:00<br />
+8:00 PM,82.9,75.9,79,30.07,7.0,NE,11.5,-,N/A,,Scattered Clouds,40,1992-08-06 00:00:00<br />
+9:00 PM,82.0,75.9,82,30.09,7.0,NNE,8.1,-,N/A,,Mostly Cloudy,20,1992-08-06 01:00:00<br />
+10:00 PM,82.0,75.9,82,30.11,7.0,East,5.8,-,N/A,,Scattered Clouds,80,1992-08-06 02:00:00<br />
+11:00 PM,82.0,77.0,85,30.11,7.0,NE,8.1,-,N/A,,Scattered Clouds,50,1992-08-06 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/6/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,77.0,85,30.11,7.0,East,8.1,-,N/A,,Mostly Cloudy,80,1992-08-06 04:00:00<br />
+1:00 AM,82.0,75.0,79,30.09,7.0,ENE,6.9,-,N/A,,Mostly Cloudy,60,1992-08-06 05:00:00<br />
+2:00 AM,81.0,75.0,82,30.09,7.0,ENE,8.1,-,N/A,,Mostly Cloudy,60,1992-08-06 06:00:00<br />
+3:00 AM,81.0,75.9,85,30.06,7.0,ENE,6.9,-,N/A,,Mostly Cloudy,70,1992-08-06 07:00:00<br />
+4:00 AM,81.0,75.9,85,30.04,7.0,ENE,8.1,-,N/A,,Mostly Cloudy,60,1992-08-06 08:00:00<br />
+5:00 AM,81.0,75.0,82,30.04,7.0,East,6.9,-,N/A,,Scattered Clouds,90,1992-08-06 09:00:00<br />
+6:00 AM,81.0,75.9,85,30.06,7.0,East,9.2,-,N/A,,Scattered Clouds,90,1992-08-06 10:00:00<br />
+7:00 AM,81.0,75.9,85,30.07,7.0,SE,8.1,-,N/A,,Unknown,140,1992-08-06 11:00:00<br />
+8:00 AM,82.9,75.9,79,30.08,7.0,NNE,4.6,-,N/A,,Unknown,30,1992-08-06 12:00:00<br />
+9:00 AM,-9999,-9999,N/A,30.10,7.0,SE,19.6,-,N/A,,Mostly Cloudy,130,1992-08-06 13:00:00<br />
+10:00 AM,87.1,77.0,72,30.12,7.0,SSE,6.9,-,N/A,,Mostly Cloudy,160,1992-08-06 14:00:00<br />
+11:00 AM,82.9,72.0,69,30.13,7.0,ENE,10.4,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,60,1992-08-06 15:00:00<br />
+12:00 PM,80.1,73.9,81,30.15,7.0,SSE,17.3,-,0.09,Rain-Thunderstorm,Light Thunderstorms and Rain,150,1992-08-06 16:00:00<br />
+1:00 PM,82.9,73.0,72,30.12,7.0,ESE,4.6,-,N/A,,Overcast,110,1992-08-06 17:00:00<br />
+2:00 PM,87.1,77.0,72,30.11,7.0,ESE,8.1,-,N/A,,Overcast,110,1992-08-06 18:00:00<br />
+2:10 PM,-9999,-9999,N/A,30.10,7.0,ESE,20.7,-,N/A,Thunderstorm,Thunderstorm,120,1992-08-06 18:10:00<br />
+3:00 PM,82.0,73.9,76,30.11,7.0,SE,9.2,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,140,1992-08-06 19:00:00<br />
+3:32 PM,-9999,-9999,N/A,30.09,7.0,NW,4.6,-,N/A,,Overcast,320,1992-08-06 19:32:00<br />
+4:00 PM,82.9,73.9,74,30.07,7.0,North,5.8,-,N/A,,Mostly Cloudy,360,1992-08-06 20:00:00<br />
+5:00 PM,84.0,73.9,72,30.07,7.0,North,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,10,1992-08-06 21:00:00<br />
+6:00 PM,82.0,75.0,79,30.09,7.0,NE,6.9,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,40,1992-08-06 22:00:00<br />
+7:00 PM,81.0,72.0,74,30.09,7.0,NNW,8.1,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,340,1992-08-06 23:00:00<br />
+7:04 PM,-9999,-9999,N/A,30.08,7.0,North,6.9,-,N/A,,Mostly Cloudy,350,1992-08-06 23:04:00<br />
+8:00 PM,80.1,75.0,85,30.09,7.0,NNE,8.1,-,N/A,,Mostly Cloudy,20,1992-08-07 00:00:00<br />
+9:00 PM,79.0,73.9,84,30.09,7.0,NNW,3.5,-,N/A,,Mostly Cloudy,330,1992-08-07 01:00:00<br />
+10:00 PM,79.0,72.0,79,30.13,7.0,NNE,3.5,-,N/A,,Overcast,20,1992-08-07 02:00:00<br />
+11:00 PM,78.1,72.0,81,30.13,7.0,NNW,5.8,-,N/A,,Mostly Cloudy,340,1992-08-07 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/7/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,78.1,72.0,81,30.11,7.0,North,6.9,-,N/A,,Mostly Cloudy,10,1992-08-07 04:00:00<br />
+1:00 AM,77.0,73.0,88,30.09,7.0,NE,6.9,-,N/A,,Mostly Cloudy,50,1992-08-07 05:00:00<br />
+1:30 AM,-9999,-9999,N/A,30.08,7.0,North,6.9,-,N/A,,Mostly Cloudy,360,1992-08-07 05:30:00<br />
+1:55 AM,-9999,-9999,N/A,30.07,7.0,North,5.8,-,N/A,,Mostly Cloudy,10,1992-08-07 05:55:00<br />
+2:00 AM,78.1,73.9,87,30.07,7.0,North,5.8,-,N/A,,Mostly Cloudy,350,1992-08-07 06:00:00<br />
+3:00 AM,78.1,75.0,90,30.06,7.0,East,9.2,-,N/A,,Scattered Clouds,80,1992-08-07 07:00:00<br />
+4:00 AM,82.0,75.9,82,30.03,7.0,ENE,9.2,-,N/A,,Scattered Clouds,70,1992-08-07 08:00:00<br />
+5:00 AM,82.0,75.9,82,30.04,7.0,East,10.4,-,N/A,,Scattered Clouds,90,1992-08-07 09:00:00<br />
+6:00 AM,82.9,75.0,77,30.04,7.0,East,8.1,-,N/A,,Scattered Clouds,90,1992-08-07 10:00:00<br />
+7:00 AM,80.1,73.9,81,30.05,7.0,East,6.9,-,N/A,,Mostly Cloudy,100,1992-08-07 11:00:00<br />
+8:00 AM,84.0,75.9,76,30.07,7.0,East,6.9,-,N/A,,Scattered Clouds,80,1992-08-07 12:00:00<br />
+9:00 AM,86.0,75.0,70,30.08,7.0,SE,13.8,-,N/A,,Scattered Clouds,130,1992-08-07 13:00:00<br />
+9:33 AM,-9999,-9999,N/A,30.08,7.0,SE,15.0,-,N/A,,Mostly Cloudy,140,1992-08-07 13:33:00<br />
+9:59 AM,-9999,-9999,N/A,30.08,7.0,SE,16.1,-,N/A,,Scattered Clouds,130,1992-08-07 13:59:00<br />
+10:00 AM,86.0,75.0,70,30.09,7.0,SE,16.1,-,N/A,,Mostly Cloudy,140,1992-08-07 14:00:00<br />
+11:00 AM,88.0,75.9,67,30.11,7.0,SSE,12.7,-,N/A,,Scattered Clouds,150,1992-08-07 15:00:00<br />
+12:00 PM,88.0,75.9,67,30.10,7.0,SE,18.4,-,N/A,,Mostly Cloudy,130,1992-08-07 16:00:00<br />
+1:00 PM,90.0,75.9,63,30.08,7.0,SE,17.3,-,N/A,,Mostly Cloudy,140,1992-08-07 17:00:00<br />
+2:00 PM,90.0,75.9,63,30.09,7.0,SSE,15.0,-,N/A,,Mostly Cloudy,150,1992-08-07 18:00:00<br />
+3:00 PM,89.1,77.0,67,30.09,7.0,SE,15.0,-,N/A,,Mostly Cloudy,130,1992-08-07 19:00:00<br />
+4:00 PM,88.0,75.9,67,30.07,7.0,SE,15.0,-,N/A,,Mostly Cloudy,140,1992-08-07 20:00:00<br />
+5:00 PM,89.1,75.0,63,30.07,7.0,SE,11.5,-,N/A,,Mostly Cloudy,130,1992-08-07 21:00:00<br />
+6:00 PM,87.1,75.9,69,30.07,7.0,SE,10.4,-,N/A,,Mostly Cloudy,140,1992-08-07 22:00:00<br />
+6:34 PM,-9999,-9999,N/A,30.09,7.0,WNW,12.7,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,290,1992-08-07 22:34:00<br />
+7:00 PM,79.0,73.0,82,30.09,7.0,West,10.4,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,270,1992-08-07 23:00:00<br />
+7:18 PM,-9999,-9999,N/A,30.05,7.0,SE,4.6,-,N/A,,Overcast,130,1992-08-07 23:18:00<br />
+8:00 PM,82.0,73.9,76,30.04,7.0,East,8.1,-,N/A,,Overcast,90,1992-08-08 00:00:00<br />
+9:00 PM,82.9,73.0,72,30.07,7.0,SE,8.1,-,N/A,,Overcast,130,1992-08-08 01:00:00<br />
+10:00 PM,84.0,75.9,76,30.10,7.0,East,8.1,-,N/A,,Mostly Cloudy,80,1992-08-08 02:00:00<br />
+11:00 PM,82.9,75.9,79,30.12,7.0,ESE,8.1,-,N/A,,Unknown,120,1992-08-08 03:00:00<br />
+11:34 PM,-9999,-9999,N/A,30.14,7.0,SE,8.1,-,N/A,Thunderstorm,Thunderstorm,130,1992-08-08 03:34:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/8/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.9,78.1,85,30.14,7.0,East,9.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,100,1992-08-08 04:00:00<br />
+12:14 AM,-9999,-9999,N/A,30.13,7.0,East,9.2,-,N/A,Thunderstorm,Thunderstorm,100,1992-08-08 04:14:00<br />
+1:00 AM,82.0,75.9,82,30.13,7.0,ESE,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,120,1992-08-08 05:00:00<br />
+1:18 AM,-9999,-9999,N/A,30.13,7.0,WNW,6.9,-,N/A,,Scattered Clouds,290,1992-08-08 05:18:00<br />
+2:00 AM,80.1,75.9,87,30.12,7.0,North,4.6,-,N/A,,Scattered Clouds,360,1992-08-08 06:00:00<br />
+3:00 AM,79.0,75.9,90,30.10,7.0,East,5.8,-,N/A,,Scattered Clouds,90,1992-08-08 07:00:00<br />
+4:00 AM,81.0,77.0,88,30.08,7.0,ESE,6.9,-,N/A,,Scattered Clouds,120,1992-08-08 08:00:00<br />
+5:00 AM,82.0,73.9,76,30.08,7.0,SE,10.4,-,N/A,,Scattered Clouds,130,1992-08-08 09:00:00<br />
+6:00 AM,82.0,73.9,76,30.09,7.0,SE,9.2,-,N/A,,Mostly Cloudy,140,1992-08-08 10:00:00<br />
+7:00 AM,82.0,75.0,79,30.09,7.0,SE,8.1,-,N/A,,Mostly Cloudy,130,1992-08-08 11:00:00<br />
+8:00 AM,82.0,75.0,79,30.11,7.0,East,6.9,-,N/A,,Mostly Cloudy,90,1992-08-08 12:00:00<br />
+9:00 AM,84.9,75.0,72,30.12,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-08 13:00:00<br />
+10:00 AM,87.1,75.0,67,30.14,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-08 14:00:00<br />
+11:00 AM,87.1,73.9,65,30.16,7.0,SSE,11.5,-,N/A,,Mostly Cloudy,150,1992-08-08 15:00:00<br />
+12:00 PM,87.1,73.0,63,30.17,7.0,SE,8.1,-,N/A,,Mostly Cloudy,140,1992-08-08 16:00:00<br />
+1:00 PM,87.1,73.9,65,30.16,7.0,SE,13.8,-,N/A,,Mostly Cloudy,130,1992-08-08 17:00:00<br />
+2:00 PM,88.0,73.9,63,30.15,7.0,ESE,8.1,-,N/A,,Mostly Cloudy,110,1992-08-08 18:00:00<br />
+3:00 PM,87.1,73.0,63,30.14,7.0,SE,9.2,-,N/A,,Mostly Cloudy,130,1992-08-08 19:00:00<br />
+4:00 PM,87.1,72.0,61,30.12,7.0,SE,11.5,-,N/A,,Mostly Cloudy,130,1992-08-08 20:00:00<br />
+5:00 PM,89.1,73.9,61,30.09,7.0,ESE,9.2,-,N/A,,Mostly Cloudy,120,1992-08-08 21:00:00<br />
+6:00 PM,88.0,73.0,61,30.09,7.0,East,11.5,-,N/A,,Scattered Clouds,90,1992-08-08 22:00:00<br />
+7:00 PM,86.0,73.0,65,30.09,7.0,ENE,13.8,-,N/A,,Scattered Clouds,70,1992-08-08 23:00:00<br />
+8:00 PM,84.0,73.0,69,30.11,7.0,NE,11.5,-,N/A,,Partly Cloudy,50,1992-08-09 00:00:00<br />
+9:00 PM,84.0,75.0,74,30.14,7.0,ENE,9.2,-,N/A,,Scattered Clouds,60,1992-08-09 01:00:00<br />
+10:00 PM,82.9,75.0,77,30.14,7.0,ENE,9.2,-,N/A,,Scattered Clouds,60,1992-08-09 02:00:00<br />
+11:00 PM,82.9,75.0,77,30.15,7.0,NE,10.4,-,N/A,,Scattered Clouds,50,1992-08-09 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/9/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,75.0,79,30.14,7.0,NE,8.1,-,N/A,,Scattered Clouds,50,1992-08-09 04:00:00<br />
+1:00 AM,82.9,75.0,77,30.14,7.0,East,9.2,-,N/A,,Scattered Clouds,100,1992-08-09 05:00:00<br />
+2:00 AM,81.0,75.9,85,30.12,7.0,East,9.2,-,N/A,,Scattered Clouds,90,1992-08-09 06:00:00<br />
+3:00 AM,81.0,75.9,85,30.11,7.0,ESE,9.2,-,N/A,,Scattered Clouds,110,1992-08-09 07:00:00<br />
+4:00 AM,80.1,73.9,81,30.08,7.0,ESE,6.9,-,N/A,,Partly Cloudy,110,1992-08-09 08:00:00<br />
+5:00 AM,80.1,75.0,85,30.07,7.0,NNE,6.9,-,N/A,,Partly Cloudy,20,1992-08-09 09:00:00<br />
+6:00 AM,80.1,75.0,85,30.09,7.0,North,5.8,-,N/A,,Partly Cloudy,350,1992-08-09 10:00:00<br />
+7:00 AM,80.1,75.9,87,30.09,7.0,NNW,3.5,-,N/A,,Scattered Clouds,340,1992-08-09 11:00:00<br />
+8:00 AM,82.0,75.9,82,30.11,7.0,NNE,6.9,-,N/A,,Mostly Cloudy,20,1992-08-09 12:00:00<br />
+9:00 AM,84.9,75.9,74,30.12,7.0,ESE,4.6,-,N/A,,Mostly Cloudy,110,1992-08-09 13:00:00<br />
+9:55 AM,-9999,-9999,N/A,30.14,7.0,East,8.1,-,N/A,,Mostly Cloudy,90,1992-08-09 13:55:00<br />
+10:00 AM,84.9,73.0,67,30.14,7.0,East,8.1,-,N/A,,Mostly Cloudy,100,1992-08-09 14:00:00<br />
+10:05 AM,-9999,-9999,N/A,30.14,7.0,ENE,12.7,-,N/A,Thunderstorm,Thunderstorm,60,1992-08-09 14:05:00<br />
+10:19 AM,-9999,-9999,N/A,30.15,2.0,NE,19.6,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,40,1992-08-09 14:19:00<br />
+10:34 AM,-9999,-9999,N/A,30.14,7.0,NNE,4.6,-,N/A,,Mostly Cloudy,30,1992-08-09 14:34:00<br />
+11:00 AM,82.0,72.0,71,30.14,7.0,WSW,3.5,-,0.43,,Mostly Cloudy,240,1992-08-09 15:00:00<br />
+12:00 PM,84.9,73.9,69,30.14,7.0,SSE,8.1,-,N/A,,Mostly Cloudy,150,1992-08-09 16:00:00<br />
+1:00 PM,84.0,71.1,65,30.14,7.0,East,6.9,-,N/A,,Overcast,80,1992-08-09 17:00:00<br />
+2:00 PM,84.0,73.0,69,30.14,7.0,East,8.1,-,N/A,,Mostly Cloudy,100,1992-08-09 18:00:00<br />
+3:00 PM,87.1,71.1,59,30.09,7.0,East,9.2,-,N/A,,Mostly Cloudy,90,1992-08-09 19:00:00<br />
+4:00 PM,86.0,72.0,63,30.04,7.0,ENE,9.2,-,N/A,,Mostly Cloudy,70,1992-08-09 20:00:00<br />
+5:00 PM,84.0,73.0,69,30.07,7.0,East,11.5,-,N/A,,Mostly Cloudy,100,1992-08-09 21:00:00<br />
+6:00 PM,86.0,70.0,59,30.07,7.0,ENE,10.4,-,N/A,,Mostly Cloudy,70,1992-08-09 22:00:00<br />
+7:00 PM,84.0,71.1,65,30.06,7.0,NNE,10.4,-,N/A,,Overcast,30,1992-08-09 23:00:00<br />
+8:00 PM,84.0,70.0,63,30.06,7.0,ENE,10.4,-,N/A,,Mostly Cloudy,60,1992-08-10 00:00:00<br />
+9:00 PM,82.0,70.0,67,30.07,7.0,ENE,9.2,-,N/A,,Mostly Cloudy,60,1992-08-10 01:00:00<br />
+10:00 PM,82.0,72.0,71,30.08,7.0,NE,8.1,-,N/A,,Scattered Clouds,50,1992-08-10 02:00:00<br />
+11:00 PM,81.0,73.0,77,30.11,7.0,North,5.8,-,N/A,,Scattered Clouds,350,1992-08-10 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/10/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,79.0,73.0,82,30.09,7.0,NNW,5.8,-,N/A,,Scattered Clouds,340,1992-08-10 04:00:00<br />
+12:57 AM,-9999,-9999,N/A,30.09,7.0,NNW,4.6,-,N/A,,Mostly Cloudy,330,1992-08-10 04:57:00<br />
+1:00 AM,78.1,73.9,87,30.09,7.0,NNW,4.6,-,N/A,,Scattered Clouds,340,1992-08-10 05:00:00<br />
+1:59 AM,-9999,-9999,N/A,30.06,7.0,NNW,5.8,-,N/A,,Scattered Clouds,330,1992-08-10 05:59:00<br />
+2:00 AM,78.1,75.0,90,30.06,7.0,NW,5.8,-,N/A,,Mostly Cloudy,320,1992-08-10 06:00:00<br />
+3:00 AM,77.0,75.0,94,30.04,7.0,North,5.8,-,N/A,,Scattered Clouds,360,1992-08-10 07:00:00<br />
+4:00 AM,77.0,75.0,94,30.03,7.0,North,8.1,-,0.01,,Mostly Cloudy,360,1992-08-10 08:00:00<br />
+5:00 AM,77.0,73.0,88,30.03,7.0,NNW,3.5,-,N/A,,Overcast,340,1992-08-10 09:00:00<br />
+6:00 AM,77.0,73.9,90,30.01,7.0,NNW,3.5,-,N/A,,Mostly Cloudy,330,1992-08-10 10:00:00<br />
+7:00 AM,77.0,73.9,90,30.01,7.0,North,5.8,-,N/A,,Mostly Cloudy,360,1992-08-10 11:00:00<br />
+8:00 AM,78.1,75.0,90,30.02,7.0,NNE,6.9,-,N/A,,Mostly Cloudy,30,1992-08-10 12:00:00<br />
+9:00 AM,82.0,73.9,76,30.03,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,30,1992-08-10 13:00:00<br />
+10:00 AM,84.9,73.9,69,30.04,7.0,ESE,9.2,-,N/A,,Partly Cloudy,110,1992-08-10 14:00:00<br />
+11:00 AM,87.1,73.0,63,30.04,7.0,East,9.2,-,N/A,,Partly Cloudy,90,1992-08-10 15:00:00<br />
+12:00 PM,88.0,73.9,63,30.05,7.0,East,9.2,-,N/A,,Scattered Clouds,90,1992-08-10 16:00:00<br />
+1:00 PM,89.1,73.0,59,30.04,7.0,ESE,11.5,-,N/A,,Mostly Cloudy,120,1992-08-10 17:00:00<br />
+2:00 PM,88.0,73.0,61,30.04,7.0,SSE,13.8,-,N/A,,Mostly Cloudy,150,1992-08-10 18:00:00<br />
+3:00 PM,89.1,73.9,61,30.01,7.0,SE,11.5,20.7,N/A,,Scattered Clouds,130,1992-08-10 19:00:00<br />
+4:00 PM,88.0,72.0,59,30.01,7.0,ESE,12.7,-,N/A,,Scattered Clouds,120,1992-08-10 20:00:00<br />
+5:00 PM,88.0,73.9,63,29.99,7.0,ESE,9.2,-,N/A,,Scattered Clouds,110,1992-08-10 21:00:00<br />
+6:00 PM,88.0,73.0,61,29.98,7.0,ESE,9.2,-,N/A,,Partly Cloudy,110,1992-08-10 22:00:00<br />
+7:00 PM,86.0,72.0,63,29.99,7.0,ESE,9.2,-,N/A,,Scattered Clouds,110,1992-08-10 23:00:00<br />
+8:00 PM,84.0,73.0,69,30.00,7.0,ESE,9.2,-,N/A,,Mostly Cloudy,120,1992-08-11 00:00:00<br />
+9:00 PM,82.0,75.0,79,30.01,7.0,SE,9.2,-,N/A,,Scattered Clouds,130,1992-08-11 01:00:00<br />
+10:00 PM,81.0,73.9,79,30.04,7.0,NNW,5.8,-,N/A,,Unknown,330,1992-08-11 02:00:00<br />
+11:00 PM,81.0,73.9,79,30.04,7.0,West,3.5,-,N/A,,Scattered Clouds,260,1992-08-11 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/11/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,81.0,73.9,79,30.04,7.0,NW,4.6,-,N/A,,Scattered Clouds,310,1992-08-11 04:00:00<br />
+1:00 AM,79.0,73.9,84,30.01,7.0,WNW,5.8,-,N/A,,Scattered Clouds,290,1992-08-11 05:00:00<br />
+2:00 AM,80.1,73.9,81,29.99,7.0,North,4.6,-,N/A,,Scattered Clouds,350,1992-08-11 06:00:00<br />
+3:00 AM,79.0,73.9,84,29.99,7.0,NNE,4.6,-,N/A,,Scattered Clouds,30,1992-08-11 07:00:00<br />
+4:00 AM,79.0,73.0,82,29.98,7.0,North,4.6,-,N/A,,Scattered Clouds,360,1992-08-11 08:00:00<br />
+5:00 AM,78.1,73.9,87,29.98,7.0,North,3.5,-,N/A,,Scattered Clouds,360,1992-08-11 09:00:00<br />
+5:56 AM,-9999,-9999,N/A,29.98,7.0,NE,6.9,-,N/A,Thunderstorm,Thunderstorm,40,1992-08-11 09:56:00<br />
+6:00 AM,79.0,73.9,84,29.99,7.0,NE,4.6,-,N/A,,Scattered Clouds,50,1992-08-11 10:00:00<br />
+6:56 AM,-9999,-9999,N/A,29.99,7.0,East,2.3,-,N/A,,Mostly Cloudy,90,1992-08-11 10:56:00<br />
+7:00 AM,79.0,73.0,82,29.99,7.0,East,3.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,100,1992-08-11 11:00:00<br />
+8:00 AM,82.9,75.0,77,30.01,7.0,NNE,4.6,-,N/A,,Scattered Clouds,30,1992-08-11 12:00:00<br />
+9:00 AM,84.0,75.0,74,30.02,7.0,SE,5.8,-,N/A,,Mostly Cloudy,130,1992-08-11 13:00:00<br />
+10:00 AM,87.1,75.0,67,30.04,7.0,ESE,11.5,-,N/A,,Mostly Cloudy,120,1992-08-11 14:00:00<br />
+11:00 AM,87.1,75.0,67,30.04,7.0,ESE,13.8,-,N/A,,Mostly Cloudy,120,1992-08-11 15:00:00<br />
+11:45 AM,-9999,-9999,N/A,30.05,7.0,SSE,16.1,-,N/A,,Mostly Cloudy,150,1992-08-11 15:45:00<br />
+12:00 PM,88.0,73.9,63,30.04,7.0,SE,17.3,-,N/A,,Mostly Cloudy,130,1992-08-11 16:00:00<br />
+12:25 PM,-9999,-9999,N/A,30.06,7.0,SSW,13.8,-,N/A,,Mostly Cloudy,200,1992-08-11 16:25:00<br />
+1:00 PM,87.1,73.9,65,30.05,7.0,South,11.5,-,0.03,,Mostly Cloudy,180,1992-08-11 17:00:00<br />
+2:00 PM,89.1,72.0,57,30.04,7.0,SSE,16.1,-,N/A,,Mostly Cloudy,160,1992-08-11 18:00:00<br />
+3:00 PM,89.1,72.0,57,30.02,7.0,SE,18.4,-,N/A,,Mostly Cloudy,140,1992-08-11 19:00:00<br />
+4:00 PM,88.0,70.0,55,30.02,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-11 20:00:00<br />
+5:00 PM,88.0,72.0,59,30.01,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-11 21:00:00<br />
+6:00 PM,86.0,73.0,65,30.01,7.0,ESE,16.1,-,N/A,,Mostly Cloudy,110,1992-08-11 22:00:00<br />
+7:00 PM,84.0,73.0,69,30.01,7.0,ESE,11.5,-,N/A,,Mostly Cloudy,110,1992-08-11 23:00:00<br />
+8:00 PM,82.9,73.0,72,30.01,7.0,East,11.5,-,N/A,,Mostly Cloudy,90,1992-08-12 00:00:00<br />
+9:00 PM,82.0,73.0,74,30.03,7.0,SE,12.7,-,N/A,,Scattered Clouds,130,1992-08-12 01:00:00<br />
+10:00 PM,82.0,73.0,74,30.06,7.0,East,10.4,-,N/A,,Scattered Clouds,100,1992-08-12 02:00:00<br />
+11:00 PM,82.0,73.9,76,30.06,7.0,SE,9.2,-,N/A,,Scattered Clouds,130,1992-08-12 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/12/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,73.0,74,30.07,7.0,East,10.4,-,N/A,,Scattered Clouds,100,1992-08-12 04:00:00<br />
+1:00 AM,82.0,75.0,79,30.04,7.0,ESE,9.2,-,N/A,,Scattered Clouds,110,1992-08-12 05:00:00<br />
+2:00 AM,82.0,75.0,79,30.04,7.0,ESE,9.2,-,N/A,,Scattered Clouds,120,1992-08-12 06:00:00<br />
+3:00 AM,82.0,73.0,74,30.03,7.0,SE,10.4,-,N/A,,Scattered Clouds,140,1992-08-12 07:00:00<br />
+4:00 AM,81.0,75.0,82,30.03,7.0,SE,9.2,-,N/A,,Scattered Clouds,140,1992-08-12 08:00:00<br />
+5:00 AM,81.0,75.0,82,30.03,7.0,SE,9.2,-,N/A,,Scattered Clouds,130,1992-08-12 09:00:00<br />
+6:00 AM,82.0,75.0,79,30.03,7.0,SE,11.5,-,N/A,,Scattered Clouds,130,1992-08-12 10:00:00<br />
+7:00 AM,82.9,75.9,79,30.04,7.0,SE,11.5,-,N/A,,Scattered Clouds,140,1992-08-12 11:00:00<br />
+8:00 AM,84.0,75.9,76,30.06,7.0,SE,10.4,-,N/A,,Scattered Clouds,130,1992-08-12 12:00:00<br />
+9:00 AM,84.9,75.9,74,30.06,7.0,ESE,11.5,-,N/A,,Mostly Cloudy,110,1992-08-12 13:00:00<br />
+10:00 AM,86.0,75.9,72,30.07,7.0,ESE,11.5,-,N/A,,Mostly Cloudy,120,1992-08-12 14:00:00<br />
+11:00 AM,87.1,75.9,69,30.09,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-12 15:00:00<br />
+12:00 PM,88.0,75.0,65,30.09,7.0,ESE,13.8,-,N/A,,Mostly Cloudy,120,1992-08-12 16:00:00<br />
+1:00 PM,88.0,75.9,67,30.09,7.0,SSE,16.1,-,N/A,,Mostly Cloudy,150,1992-08-12 17:00:00<br />
+2:00 PM,89.1,75.9,65,30.07,7.0,SE,13.8,-,N/A,,Mostly Cloudy,130,1992-08-12 18:00:00<br />
+3:00 PM,90.0,75.9,63,30.07,7.0,SE,13.8,-,N/A,,Mostly Cloudy,130,1992-08-12 19:00:00<br />
+4:00 PM,90.0,75.9,63,30.06,7.0,ESE,16.1,-,N/A,,Mostly Cloudy,120,1992-08-12 20:00:00<br />
+5:00 PM,87.1,77.0,72,30.04,7.0,ESE,17.3,-,N/A,,Mostly Cloudy,120,1992-08-12 21:00:00<br />
+6:00 PM,86.0,77.0,74,30.06,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-12 22:00:00<br />
+7:00 PM,84.9,77.0,77,30.07,7.0,SE,12.7,-,N/A,,Mostly Cloudy,140,1992-08-12 23:00:00<br />
+8:00 PM,84.9,75.9,74,30.07,7.0,SE,9.2,-,N/A,,Mostly Cloudy,140,1992-08-13 00:00:00<br />
+9:00 PM,84.0,75.0,74,30.09,7.0,ESE,9.2,-,N/A,,Scattered Clouds,120,1992-08-13 01:00:00<br />
+10:00 PM,82.9,77.0,82,30.11,7.0,SSE,6.9,-,N/A,,Scattered Clouds,150,1992-08-13 02:00:00<br />
+11:00 PM,82.0,77.0,85,30.12,7.0,East,6.9,-,N/A,,Partly Cloudy,100,1992-08-13 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/13/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,84.0,77.0,79,30.14,7.0,East,6.9,-,N/A,,Mostly Cloudy,100,1992-08-13 04:00:00<br />
+1:00 AM,82.9,77.0,82,30.12,7.0,ESE,6.9,-,N/A,,Mostly Cloudy,110,1992-08-13 05:00:00<br />
+2:00 AM,82.0,75.0,79,30.11,7.0,East,5.8,-,N/A,,Mostly Cloudy,80,1992-08-13 06:00:00<br />
+3:00 AM,82.0,75.9,82,30.09,7.0,ESE,8.1,-,N/A,,Mostly Cloudy,120,1992-08-13 07:00:00<br />
+4:00 AM,82.0,77.0,85,30.09,7.0,SE,6.9,-,N/A,,Mostly Cloudy,130,1992-08-13 08:00:00<br />
+5:00 AM,82.0,75.0,79,30.08,7.0,ESE,8.1,-,N/A,,Partly Cloudy,120,1992-08-13 09:00:00<br />
+6:00 AM,82.0,75.0,79,30.09,7.0,ESE,5.8,-,N/A,,Scattered Clouds,120,1992-08-13 10:00:00<br />
+7:00 AM,82.0,75.0,79,30.09,7.0,SE,5.8,-,N/A,,Mostly Cloudy,130,1992-08-13 11:00:00<br />
+8:00 AM,84.0,78.1,82,30.09,7.0,SE,9.2,-,N/A,,Mostly Cloudy,130,1992-08-13 12:00:00<br />
+9:00 AM,86.0,77.0,74,30.11,7.0,SE,15.0,-,N/A,,Mostly Cloudy,130,1992-08-13 13:00:00<br />
+10:00 AM,87.1,77.0,72,30.11,7.0,ESE,19.6,-,N/A,,Mostly Cloudy,120,1992-08-13 14:00:00<br />
+10:37 AM,-9999,-9999,N/A,30.12,7.0,SE,16.1,-,N/A,Thunderstorm,Thunderstorm,140,1992-08-13 14:37:00<br />
+11:00 AM,88.0,78.1,72,30.12,7.0,SE,20.7,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,140,1992-08-13 15:00:00<br />
+11:33 AM,-9999,-9999,N/A,30.13,7.0,ESE,10.4,-,N/A,,Mostly Cloudy,110,1992-08-13 15:33:00<br />
+12:00 PM,82.0,73.0,74,30.14,7.0,East,11.5,-,N/A,,Mostly Cloudy,90,1992-08-13 16:00:00<br />
+1:00 PM,84.9,78.1,80,30.12,7.0,SE,10.4,-,N/A,,Overcast,130,1992-08-13 17:00:00<br />
+2:00 PM,87.1,77.0,72,30.11,7.0,SE,16.1,-,N/A,,Mostly Cloudy,140,1992-08-13 18:00:00<br />
+3:00 PM,88.0,77.0,70,30.09,7.0,South,13.8,-,N/A,,Mostly Cloudy,170,1992-08-13 19:00:00<br />
+4:00 PM,88.0,78.1,72,30.06,7.0,SE,16.1,-,N/A,,Mostly Cloudy,140,1992-08-13 20:00:00<br />
+5:00 PM,89.1,75.9,65,30.06,7.0,SE,15.0,-,N/A,,Mostly Cloudy,140,1992-08-13 21:00:00<br />
+6:00 PM,88.0,78.1,72,30.06,7.0,SSE,13.8,-,N/A,,Mostly Cloudy,160,1992-08-13 22:00:00<br />
+7:00 PM,87.1,75.9,69,30.07,7.0,South,13.8,-,N/A,,Mostly Cloudy,170,1992-08-13 23:00:00<br />
+8:00 PM,84.9,78.1,80,30.07,7.0,SSE,11.5,-,N/A,,Mostly Cloudy,150,1992-08-14 00:00:00<br />
+9:00 PM,84.0,78.1,82,30.09,7.0,SSE,10.4,-,N/A,,Partly Cloudy,150,1992-08-14 01:00:00<br />
+10:00 PM,84.0,78.1,82,30.12,7.0,SSE,9.2,-,N/A,,Mostly Cloudy,160,1992-08-14 02:00:00<br />
+11:00 PM,84.0,78.1,82,30.14,7.0,SSE,12.7,-,N/A,,Mostly Cloudy,150,1992-08-14 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/14/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,84.0,78.1,82,30.14,7.0,SE,10.4,-,N/A,,Mostly Cloudy,130,1992-08-14 04:00:00<br />
+1:00 AM,84.0,78.1,82,30.13,7.0,SSE,11.5,-,N/A,,Mostly Cloudy,150,1992-08-14 05:00:00<br />
+2:00 AM,82.9,78.1,85,30.11,7.0,SE,8.1,-,N/A,,Mostly Cloudy,140,1992-08-14 06:00:00<br />
+2:56 AM,-9999,-9999,N/A,30.10,7.0,South,9.2,-,N/A,Thunderstorm,Thunderstorm,190,1992-08-14 06:56:00<br />
+3:00 AM,82.9,78.1,85,30.09,7.0,SSE,10.4,-,N/A,,Mostly Cloudy,150,1992-08-14 07:00:00<br />
+3:35 AM,-9999,-9999,N/A,30.07,7.0,South,8.1,-,N/A,,Scattered Clouds,170,1992-08-14 07:35:00<br />
+4:00 AM,82.0,78.1,88,30.07,7.0,SSE,9.2,-,N/A,,Partly Cloudy,160,1992-08-14 08:00:00<br />
+5:00 AM,82.9,77.0,82,30.07,7.0,SSE,12.7,-,N/A,,Mostly Cloudy,160,1992-08-14 09:00:00<br />
+6:00 AM,82.9,75.9,79,30.09,7.0,SSE,10.4,-,N/A,,Mostly Cloudy,160,1992-08-14 10:00:00<br />
+7:00 AM,82.9,77.0,82,30.09,7.0,SSE,11.5,-,N/A,,Mostly Cloudy,150,1992-08-14 11:00:00<br />
+8:00 AM,84.0,77.0,79,30.09,7.0,SSE,13.8,-,N/A,,Mostly Cloudy,150,1992-08-14 12:00:00<br />
+9:00 AM,84.9,78.1,80,30.11,7.0,SE,13.8,-,N/A,Rain,Light Rain Showers,140,1992-08-14 13:00:00<br />
+10:00 AM,86.0,77.0,74,30.12,7.0,SE,20.7,-,N/A,,Mostly Cloudy,130,1992-08-14 14:00:00<br />
+10:40 AM,-9999,-9999,N/A,30.13,7.0,SE,13.8,-,N/A,,Mostly Cloudy,140,1992-08-14 14:40:00<br />
+11:00 AM,87.1,75.0,67,30.14,7.0,SSE,15.0,-,N/A,,Mostly Cloudy,160,1992-08-14 15:00:00<br />
+12:00 PM,89.1,75.9,65,30.13,7.0,SE,16.1,-,N/A,,Mostly Cloudy,140,1992-08-14 16:00:00<br />
+1:00 PM,90.0,75.0,61,30.12,7.0,SSE,15.0,-,N/A,,Mostly Cloudy,160,1992-08-14 17:00:00<br />
+2:00 PM,91.0,75.9,61,30.09,7.0,SSE,15.0,-,N/A,,Mostly Cloudy,150,1992-08-14 18:00:00<br />
+3:00 PM,90.0,75.9,63,30.07,7.0,SSE,16.1,-,N/A,,Mostly Cloudy,160,1992-08-14 19:00:00<br />
+4:00 PM,91.0,75.0,59,30.06,7.0,South,16.1,-,N/A,,Mostly Cloudy,170,1992-08-14 20:00:00<br />
+5:00 PM,91.0,75.0,59,30.06,7.0,SE,15.0,-,N/A,,Mostly Cloudy,140,1992-08-14 21:00:00<br />
+6:00 PM,89.1,75.0,63,30.06,7.0,SE,16.1,-,N/A,,Scattered Clouds,140,1992-08-14 22:00:00<br />
+7:00 PM,87.1,75.0,67,30.06,7.0,SE,12.7,-,N/A,,Scattered Clouds,140,1992-08-14 23:00:00<br />
+8:00 PM,84.9,75.9,74,30.07,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-15 00:00:00<br />
+9:00 PM,84.0,77.0,79,30.10,7.0,SE,9.2,-,N/A,,Mostly Cloudy,140,1992-08-15 01:00:00<br />
+10:00 PM,84.0,77.0,79,30.11,7.0,SE,12.7,-,N/A,,Mostly Cloudy,140,1992-08-15 02:00:00<br />
+11:00 PM,84.0,75.9,76,30.12,7.0,SSE,10.4,-,N/A,,Mostly Cloudy,160,1992-08-15 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/15/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.9,77.0,82,30.14,7.0,South,5.8,-,N/A,,Mostly Cloudy,170,1992-08-15 04:00:00<br />
+1:00 AM,82.0,77.0,85,30.12,7.0,South,4.6,-,N/A,,Overcast,190,1992-08-15 05:00:00<br />
+2:00 AM,80.1,75.0,85,30.11,7.0,NNW,4.6,-,0.02,,Overcast,330,1992-08-15 06:00:00<br />
+3:00 AM,80.1,75.9,87,30.09,7.0,WSW,8.1,-,N/A,,Overcast,240,1992-08-15 07:00:00<br />
+4:00 AM,79.0,75.0,88,30.08,7.0,WNW,5.8,-,N/A,,Overcast,300,1992-08-15 08:00:00<br />
+5:00 AM,82.0,77.0,85,30.04,7.0,East,10.4,-,N/A,,Mostly Cloudy,90,1992-08-15 09:00:00<br />
+6:00 AM,82.0,73.9,76,30.03,7.0,NE,8.1,-,N/A,,Mostly Cloudy,50,1992-08-15 10:00:00<br />
+7:00 AM,82.0,75.0,79,30.06,7.0,SE,13.8,-,N/A,,Mostly Cloudy,140,1992-08-15 11:00:00<br />
+8:00 AM,82.9,77.0,82,30.06,7.0,SE,8.1,-,N/A,,Mostly Cloudy,130,1992-08-15 12:00:00<br />
+9:00 AM,84.9,75.9,74,30.06,7.0,SE,8.1,-,N/A,,Mostly Cloudy,130,1992-08-15 13:00:00<br />
+10:00 AM,86.0,77.0,74,30.07,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-15 14:00:00<br />
+11:00 AM,88.0,75.9,67,30.07,7.0,SE,17.3,-,N/A,,Mostly Cloudy,130,1992-08-15 15:00:00<br />
+12:00 PM,90.0,75.9,63,30.07,7.0,SE,18.4,-,N/A,,Mostly Cloudy,140,1992-08-15 16:00:00<br />
+1:00 PM,91.0,75.0,59,30.07,7.0,SE,12.7,-,N/A,,Mostly Cloudy,130,1992-08-15 17:00:00<br />
+2:00 PM,91.9,73.0,54,30.06,7.0,SSE,15.0,-,N/A,,Mostly Cloudy,150,1992-08-15 18:00:00<br />
+3:00 PM,91.0,73.9,57,30.04,7.0,SSE,11.5,21.9,N/A,,Mostly Cloudy,150,1992-08-15 19:00:00<br />
+4:00 PM,91.0,73.0,55,30.04,7.0,SSE,18.4,-,N/A,,Mostly Cloudy,150,1992-08-15 20:00:00<br />
+5:00 PM,89.1,73.9,61,30.03,7.0,South,15.0,-,N/A,,Mostly Cloudy,170,1992-08-15 21:00:00<br />
+6:00 PM,88.0,73.9,63,30.03,7.0,South,11.5,-,N/A,,Mostly Cloudy,170,1992-08-15 22:00:00<br />
+7:00 PM,87.1,75.0,67,30.03,7.0,SSE,12.7,-,N/A,,Mostly Cloudy,150,1992-08-15 23:00:00<br />
+8:00 PM,82.9,70.0,65,30.05,7.0,SW,13.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,220,1992-08-16 00:00:00<br />
+8:25 PM,-9999,-9999,N/A,30.05,7.0,West,4.6,-,N/A,,Mostly Cloudy,270,1992-08-16 00:25:00<br />
+9:00 PM,80.1,69.1,69,30.06,7.0,West,5.8,-,N/A,,Mostly Cloudy,280,1992-08-16 01:00:00<br />
+10:00 PM,80.1,68.0,67,30.07,7.0,North,6.9,-,N/A,,Mostly Cloudy,360,1992-08-16 02:00:00<br />
+11:00 PM,79.0,71.1,77,30.07,7.0,North,6.9,-,N/A,,Mostly Cloudy,10,1992-08-16 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/16/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,80.1,72.0,76,30.06,7.0,North,5.8,-,N/A,,Mostly Cloudy,360,1992-08-16 04:00:00<br />
+1:00 AM,80.1,72.0,76,30.06,7.0,North,4.6,-,N/A,,Mostly Cloudy,360,1992-08-16 05:00:00<br />
+2:00 AM,81.0,73.9,79,30.04,7.0,SE,8.1,-,N/A,,Mostly Cloudy,140,1992-08-16 06:00:00<br />
+3:00 AM,82.0,73.9,76,30.03,7.0,SE,12.7,-,N/A,,Partly Cloudy,130,1992-08-16 07:00:00<br />
+4:00 AM,82.0,72.0,71,30.03,7.0,SE,8.1,-,N/A,,Partly Cloudy,140,1992-08-16 08:00:00<br />
+5:00 AM,81.0,73.9,79,30.02,7.0,SE,2.3,-,N/A,,Scattered Clouds,140,1992-08-16 09:00:00<br />
+6:00 AM,82.0,75.0,79,30.03,7.0,SSE,2.3,-,N/A,,Scattered Clouds,160,1992-08-16 10:00:00<br />
+7:00 AM,80.1,73.0,79,30.04,7.0,North,5.8,-,N/A,,Partly Cloudy,10,1992-08-16 11:00:00<br />
+8:00 AM,81.0,75.0,82,30.04,7.0,ESE,4.6,-,N/A,,Mostly Cloudy,120,1992-08-16 12:00:00<br />
+9:00 AM,84.9,77.0,77,30.04,7.0,SSE,12.7,-,N/A,,Scattered Clouds,150,1992-08-16 13:00:00<br />
+10:00 AM,87.1,75.9,69,30.06,7.0,SE,9.2,-,N/A,,Mostly Cloudy,130,1992-08-16 14:00:00<br />
+11:00 AM,89.1,75.0,63,30.06,7.0,ESE,15.0,-,N/A,,Scattered Clouds,120,1992-08-16 15:00:00<br />
+12:00 PM,89.1,73.9,61,30.06,7.0,SE,16.1,-,N/A,,Scattered Clouds,130,1992-08-16 16:00:00<br />
+1:00 PM,91.0,73.0,55,30.07,7.0,SSE,13.8,-,N/A,,Scattered Clouds,150,1992-08-16 17:00:00<br />
+2:00 PM,91.9,73.0,54,30.06,7.0,SE,15.0,-,N/A,,Mostly Cloudy,130,1992-08-16 18:00:00<br />
+3:00 PM,91.0,73.9,57,30.04,7.0,SSE,13.8,-,N/A,,Mostly Cloudy,150,1992-08-16 19:00:00<br />
+4:00 PM,88.0,75.0,65,30.04,7.0,SE,13.8,-,N/A,,Mostly Cloudy,130,1992-08-16 20:00:00<br />
+4:03 PM,-9999,-9999,N/A,30.05,7.0,SSE,11.5,-,N/A,Thunderstorm,Thunderstorm,160,1992-08-16 20:03:00<br />
+4:11 PM,-9999,-9999,N/A,30.06,7.0,WSW,13.8,-,N/A,Thunderstorm,Thunderstorm,250,1992-08-16 20:11:00<br />
+5:00 PM,79.0,71.1,77,30.06,7.0,West,12.7,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,270,1992-08-16 21:00:00<br />
+5:39 PM,-9999,-9999,N/A,30.04,7.0,WNW,5.8,-,N/A,,Overcast,300,1992-08-16 21:39:00<br />
+6:00 PM,80.1,71.1,74,30.04,7.0,West,4.6,-,N/A,,Overcast,280,1992-08-16 22:00:00<br />
+7:00 PM,84.0,71.1,65,30.03,7.0,NNW,4.6,-,N/A,,Overcast,330,1992-08-16 23:00:00<br />
+8:00 PM,81.0,70.0,69,30.05,7.0,North,6.9,-,N/A,,Overcast,360,1992-08-17 00:00:00<br />
+9:00 PM,81.0,70.0,69,30.06,7.0,North,6.9,-,N/A,,Overcast,360,1992-08-17 01:00:00<br />
+10:00 PM,79.0,69.1,72,30.08,7.0,NE,8.1,-,N/A,,Mostly Cloudy,40,1992-08-17 02:00:00<br />
+11:00 PM,79.0,72.0,79,30.09,7.0,NNE,8.1,-,N/A,,Mostly Cloudy,20,1992-08-17 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/17/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,79.0,73.0,82,30.09,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,20,1992-08-17 04:00:00<br />
+1:00 AM,79.0,73.9,84,30.07,7.0,NNE,6.9,-,N/A,,Mostly Cloudy,20,1992-08-17 05:00:00<br />
+2:00 AM,80.1,75.0,85,30.04,7.0,North,4.6,-,N/A,,Partly Cloudy,360,1992-08-17 06:00:00<br />
+3:00 AM,80.1,75.9,87,30.04,7.0,North,5.8,-,N/A,,Partly Cloudy,360,1992-08-17 07:00:00<br />
+4:00 AM,78.1,75.0,90,30.03,7.0,NNW,3.5,-,N/A,,Partly Cloudy,340,1992-08-17 08:00:00<br />
+5:00 AM,78.1,75.9,93,30.03,7.0,NNE,3.5,-,N/A,,Partly Cloudy,30,1992-08-17 09:00:00<br />
+6:00 AM,79.0,75.9,90,30.04,7.0,NNW,3.5,-,N/A,,Scattered Clouds,330,1992-08-17 10:00:00<br />
+7:00 AM,79.0,75.0,88,30.05,7.0,NE,5.8,-,N/A,,Scattered Clouds,40,1992-08-17 11:00:00<br />
+8:00 AM,82.0,75.9,82,30.06,7.0,ESE,8.1,-,N/A,,Partly Cloudy,120,1992-08-17 12:00:00<br />
+9:00 AM,84.9,77.0,77,30.07,7.0,SE,10.4,-,N/A,,Scattered Clouds,130,1992-08-17 13:00:00<br />
+10:00 AM,88.0,75.9,67,30.09,7.0,SE,13.8,-,N/A,,Scattered Clouds,130,1992-08-17 14:00:00<br />
+11:00 AM,90.0,73.9,59,30.09,7.0,SSE,13.8,-,N/A,,Scattered Clouds,160,1992-08-17 15:00:00<br />
+12:00 PM,91.0,75.0,59,30.09,7.0,SE,11.5,-,N/A,,Scattered Clouds,130,1992-08-17 16:00:00<br />
+1:00 PM,91.9,73.0,54,30.08,7.0,SE,11.5,-,N/A,,Scattered Clouds,140,1992-08-17 17:00:00<br />
+2:00 PM,91.9,73.0,54,30.07,7.0,SE,13.8,-,N/A,,Scattered Clouds,140,1992-08-17 18:00:00<br />
+3:00 PM,93.0,72.0,50,30.06,7.0,SSE,13.8,-,N/A,,Scattered Clouds,160,1992-08-17 19:00:00<br />
+4:00 PM,89.1,75.0,63,30.04,7.0,SSE,9.2,-,N/A,,Mostly Cloudy,160,1992-08-17 20:00:00<br />
+5:00 PM,89.1,73.0,59,30.03,7.0,SSE,13.8,-,N/A,,Mostly Cloudy,160,1992-08-17 21:00:00<br />
+6:00 PM,87.1,75.9,69,30.03,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-17 22:00:00<br />
+7:00 PM,86.0,75.0,70,30.04,7.0,SE,9.2,-,N/A,,Mostly Cloudy,140,1992-08-17 23:00:00<br />
+8:00 PM,84.9,75.9,74,30.06,7.0,SE,9.2,-,N/A,,Mostly Cloudy,140,1992-08-18 00:00:00<br />
+9:00 PM,84.0,75.9,76,30.07,7.0,South,6.9,-,N/A,,Partly Cloudy,170,1992-08-18 01:00:00<br />
+10:00 PM,84.0,75.9,76,30.10,7.0,South,8.1,-,N/A,,Scattered Clouds,170,1992-08-18 02:00:00<br />
+11:00 PM,84.0,77.0,79,30.12,7.0,South,5.8,-,N/A,,Scattered Clouds,170,1992-08-18 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/18/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.9,75.9,79,30.12,7.0,South,5.8,-,N/A,,Scattered Clouds,170,1992-08-18 04:00:00<br />
+1:00 AM,82.9,75.9,79,30.12,7.0,SSE,5.8,-,N/A,,Partly Cloudy,150,1992-08-18 05:00:00<br />
+2:00 AM,82.0,75.9,82,30.10,7.0,South,2.3,-,N/A,,Scattered Clouds,190,1992-08-18 06:00:00<br />
+3:00 AM,81.0,77.0,88,30.09,7.0,NNW,4.6,-,N/A,,Scattered Clouds,330,1992-08-18 07:00:00<br />
+4:00 AM,81.0,77.0,88,30.08,7.0,North,4.6,-,N/A,,Partly Cloudy,360,1992-08-18 08:00:00<br />
+5:00 AM,81.0,77.0,88,30.07,7.0,East,4.6,-,N/A,,Partly Cloudy,100,1992-08-18 09:00:00<br />
+6:00 AM,80.1,75.9,87,30.08,7.0,East,5.8,-,N/A,,Partly Cloudy,90,1992-08-18 10:00:00<br />
+7:00 AM,81.0,75.9,85,30.08,7.0,East,5.8,-,N/A,,Partly Cloudy,80,1992-08-18 11:00:00<br />
+8:00 AM,82.9,77.0,82,30.11,7.0,SE,5.8,-,N/A,,Partly Cloudy,140,1992-08-18 12:00:00<br />
+9:00 AM,86.0,77.0,74,30.11,7.0,SSE,5.8,-,N/A,,Partly Cloudy,150,1992-08-18 13:00:00<br />
+10:00 AM,87.1,75.9,69,30.12,7.0,South,4.6,-,N/A,,Scattered Clouds,170,1992-08-18 14:00:00<br />
+11:00 AM,89.1,73.9,61,30.12,7.0,East,11.5,-,N/A,,Scattered Clouds,100,1992-08-18 15:00:00<br />
+12:00 PM,91.9,75.0,58,30.12,7.0,SSE,11.5,-,N/A,,Mostly Cloudy,150,1992-08-18 16:00:00<br />
+12:36 PM,-9999,-9999,N/A,30.12,7.0,SE,8.1,-,N/A,Thunderstorm,Thunderstorm,140,1992-08-18 16:36:00<br />
+1:00 PM,91.9,73.9,55,30.11,7.0,SE,9.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,140,1992-08-18 17:00:00<br />
+1:34 PM,-9999,-9999,N/A,30.12,7.0,NNW,13.8,-,N/A,Thunderstorm,Thunderstorm,340,1992-08-18 17:34:00<br />
+2:00 PM,80.1,73.9,81,30.11,7.0,NNW,9.2,-,0.03,Rain-Thunderstorm,Light Thunderstorms and Rain,330,1992-08-18 18:00:00<br />
+2:18 PM,-9999,-9999,N/A,30.12,7.0,NW,5.8,-,N/A,,Mostly Cloudy,320,1992-08-18 18:18:00<br />
+3:00 PM,84.0,72.0,67,30.11,7.0,WNW,2.3,-,N/A,,Mostly Cloudy,300,1992-08-18 19:00:00<br />
+4:00 PM,88.0,75.0,65,30.09,7.0,NW,8.1,-,N/A,,Mostly Cloudy,320,1992-08-18 20:00:00<br />
+5:00 PM,91.0,75.0,59,30.09,7.0,WNW,4.6,-,N/A,,Mostly Cloudy,290,1992-08-18 21:00:00<br />
+6:00 PM,87.1,73.9,65,30.07,7.0,SE,10.4,-,N/A,,Scattered Clouds,130,1992-08-18 22:00:00<br />
+7:00 PM,87.1,73.9,65,30.07,7.0,ESE,12.7,-,N/A,,Partly Cloudy,120,1992-08-18 23:00:00<br />
+8:00 PM,84.9,73.9,69,30.07,7.0,ESE,11.5,-,N/A,,Partly Cloudy,120,1992-08-19 00:00:00<br />
+9:00 PM,84.0,73.9,72,30.09,7.0,SE,9.2,-,N/A,,Scattered Clouds,140,1992-08-19 01:00:00<br />
+10:00 PM,84.0,75.0,74,30.11,7.0,ESE,9.2,-,N/A,,Clear,120,1992-08-19 02:00:00<br />
+11:00 PM,82.9,75.0,77,30.14,7.0,SE,8.1,-,N/A,,Partly Cloudy,130,1992-08-19 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/19/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,84.0,75.0,74,30.14,7.0,SE,6.9,-,N/A,,Partly Cloudy,140,1992-08-19 04:00:00<br />
+1:00 AM,82.9,75.0,77,30.12,7.0,ESE,4.6,-,N/A,,Partly Cloudy,120,1992-08-19 05:00:00<br />
+2:00 AM,82.0,75.0,79,30.12,7.0,NNW,3.5,-,N/A,,Partly Cloudy,340,1992-08-19 06:00:00<br />
+3:00 AM,81.0,75.9,85,30.11,7.0,NNW,6.9,-,N/A,,Mostly Cloudy,340,1992-08-19 07:00:00<br />
+4:00 AM,81.0,75.9,85,30.07,7.0,North,5.8,-,N/A,,Mostly Cloudy,350,1992-08-19 08:00:00<br />
+5:00 AM,79.0,75.9,90,30.06,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,20,1992-08-19 09:00:00<br />
+6:00 AM,80.1,75.9,87,30.06,7.0,North,3.5,-,N/A,,Partly Cloudy,10,1992-08-19 10:00:00<br />
+7:00 AM,80.1,75.9,87,30.07,7.0,North,4.6,-,N/A,,Mostly Cloudy,360,1992-08-19 11:00:00<br />
+8:00 AM,82.0,77.0,85,30.09,7.0,NNW,4.6,-,N/A,,Mostly Cloudy,330,1992-08-19 12:00:00<br />
+9:00 AM,84.9,78.1,80,30.09,7.0,North,4.6,-,N/A,,Mostly Cloudy,350,1992-08-19 13:00:00<br />
+10:00 AM,86.0,78.1,77,30.11,7.0,NW,4.6,-,N/A,,Mostly Cloudy,320,1992-08-19 14:00:00<br />
+11:00 AM,87.1,78.1,74,30.11,7.0,NNW,6.9,-,N/A,,Mostly Cloudy,340,1992-08-19 15:00:00<br />
+12:00 PM,91.0,75.9,61,30.09,7.0,East,11.5,-,N/A,,Mostly Cloudy,100,1992-08-19 16:00:00<br />
+12:07 PM,-9999,-9999,N/A,30.09,7.0,East,15.0,-,N/A,Thunderstorm,Thunderstorm,90,1992-08-19 16:07:00<br />
+1:00 PM,88.0,73.9,63,30.09,7.0,ESE,9.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,120,1992-08-19 17:00:00<br />
+1:13 PM,-9999,-9999,N/A,30.09,7.0,ESE,6.9,-,N/A,,Mostly Cloudy,120,1992-08-19 17:13:00<br />
+2:00 PM,84.0,75.0,74,30.07,7.0,SE,9.2,-,N/A,,Mostly Cloudy,140,1992-08-19 18:00:00<br />
+3:00 PM,84.9,75.9,74,30.08,7.0,SE,9.2,-,N/A,,Mostly Cloudy,140,1992-08-19 19:00:00<br />
+4:00 PM,84.0,73.9,72,30.06,7.0,NNW,9.2,-,N/A,,Mostly Cloudy,330,1992-08-19 20:00:00<br />
+5:00 PM,86.0,75.0,70,30.04,7.0,WNW,4.6,-,N/A,,Mostly Cloudy,290,1992-08-19 21:00:00<br />
+6:00 PM,87.1,75.0,67,30.01,7.0,ESE,9.2,-,N/A,,Mostly Cloudy,110,1992-08-19 22:00:00<br />
+7:00 PM,86.0,75.9,72,30.02,7.0,SE,9.2,-,N/A,,Mostly Cloudy,130,1992-08-19 23:00:00<br />
+8:00 PM,84.9,75.0,72,30.04,7.0,SE,8.1,-,N/A,,Mostly Cloudy,140,1992-08-20 00:00:00<br />
+9:00 PM,84.0,75.0,74,30.05,7.0,SSE,6.9,-,N/A,,Scattered Clouds,150,1992-08-20 01:00:00<br />
+10:00 PM,82.9,75.0,77,30.08,7.0,SSE,4.6,-,N/A,,Scattered Clouds,150,1992-08-20 02:00:00<br />
+11:00 PM,82.9,75.0,77,30.09,7.0,SE,6.9,-,N/A,,Scattered Clouds,130,1992-08-20 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/20/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,81.0,73.9,79,30.09,7.0,East,5.8,-,N/A,,Clear,100,1992-08-20 04:00:00<br />
+1:00 AM,81.0,75.0,82,30.07,7.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1992-08-20 05:00:00<br />
+2:00 AM,81.0,75.0,82,30.06,7.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1992-08-20 06:00:00<br />
+3:00 AM,80.1,75.0,85,30.04,7.0,NNE,3.5,-,N/A,,Clear,20,1992-08-20 07:00:00<br />
+4:00 AM,79.0,75.0,88,30.04,7.0,North,3.5,-,N/A,,Clear,10,1992-08-20 08:00:00<br />
+5:00 AM,78.1,75.9,93,30.03,7.0,Calm,Calm,-,N/A,,Unknown,0,1992-08-20 09:00:00<br />
+6:00 AM,79.0,75.9,90,30.03,7.0,NNE,5.8,-,N/A,,Scattered Clouds,20,1992-08-20 10:00:00<br />
+7:00 AM,79.0,75.9,90,30.03,7.0,North,4.6,-,N/A,,Partly Cloudy,10,1992-08-20 11:00:00<br />
+8:00 AM,81.0,77.0,88,30.04,7.0,North,5.8,-,N/A,,Partly Cloudy,360,1992-08-20 12:00:00<br />
+9:00 AM,86.0,77.0,74,30.04,7.0,NNE,5.8,-,N/A,,Partly Cloudy,30,1992-08-20 13:00:00<br />
+10:00 AM,84.9,75.9,74,30.06,7.0,ESE,6.9,-,N/A,,Scattered Clouds,120,1992-08-20 14:00:00<br />
+11:00 AM,91.0,75.0,59,30.07,7.0,SE,12.7,-,N/A,,Mostly Cloudy,130,1992-08-20 15:00:00<br />
+12:00 PM,91.9,73.9,55,30.07,7.0,ESE,11.5,-,N/A,,Scattered Clouds,110,1992-08-20 16:00:00<br />
+1:00 PM,91.9,75.0,58,30.06,7.0,SE,10.4,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,130,1992-08-20 17:00:00<br />
+1:37 PM,-9999,-9999,N/A,30.05,7.0,SE,12.7,-,N/A,,Scattered Clouds,130,1992-08-20 17:37:00<br />
+2:00 PM,89.1,73.0,59,30.06,7.0,ESE,12.7,-,N/A,,Mostly Cloudy,110,1992-08-20 18:00:00<br />
+3:00 PM,90.0,72.0,55,30.03,7.0,ESE,11.5,-,N/A,,Mostly Cloudy,110,1992-08-20 19:00:00<br />
+4:00 PM,88.0,72.0,59,30.01,7.0,SE,11.5,-,N/A,,Mostly Cloudy,130,1992-08-20 20:00:00<br />
+5:00 PM,86.0,73.9,67,30.03,7.0,ESE,9.2,-,N/A,,Mostly Cloudy,120,1992-08-20 21:00:00<br />
+6:00 PM,87.1,73.9,65,30.02,7.0,SSE,11.5,-,N/A,,Mostly Cloudy,150,1992-08-20 22:00:00<br />
+7:00 PM,86.0,73.9,67,30.01,7.0,ESE,11.5,-,N/A,,Mostly Cloudy,120,1992-08-20 23:00:00<br />
+8:00 PM,84.9,75.0,72,30.04,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-21 00:00:00<br />
+9:00 PM,84.0,73.9,72,30.06,7.0,SE,9.2,-,N/A,,Mostly Cloudy,140,1992-08-21 01:00:00<br />
+10:00 PM,82.9,73.9,74,30.07,7.0,SE,8.1,-,N/A,,Partly Cloudy,140,1992-08-21 02:00:00<br />
+11:00 PM,82.9,73.9,74,30.08,7.0,East,5.8,-,N/A,,Partly Cloudy,100,1992-08-21 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/21/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,73.9,76,30.07,7.0,ENE,5.8,-,N/A,,Partly Cloudy,70,1992-08-21 04:00:00<br />
+1:00 AM,82.0,75.0,79,30.06,7.0,North,5.8,-,N/A,,Partly Cloudy,10,1992-08-21 05:00:00<br />
+2:00 AM,82.0,75.0,79,30.06,7.0,North,4.6,-,N/A,,Partly Cloudy,10,1992-08-21 06:00:00<br />
+3:00 AM,81.0,75.0,82,30.04,7.0,SE,4.6,-,N/A,,Mostly Cloudy,130,1992-08-21 07:00:00<br />
+4:00 AM,80.1,75.0,85,30.06,7.0,SE,3.5,-,N/A,,Partly Cloudy,130,1992-08-21 08:00:00<br />
+5:00 AM,81.0,75.0,82,30.05,7.0,NNE,4.6,-,N/A,,Partly Cloudy,20,1992-08-21 09:00:00<br />
+6:00 AM,80.1,75.0,85,30.06,7.0,North,4.6,-,N/A,,Partly Cloudy,10,1992-08-21 10:00:00<br />
+7:00 AM,80.1,75.0,85,30.07,7.0,NE,5.8,-,0.04,,Mostly Cloudy,50,1992-08-21 11:00:00<br />
+8:00 AM,79.0,75.9,90,30.09,7.0,North,6.9,-,0.13,,Mostly Cloudy,360,1992-08-21 12:00:00<br />
+9:00 AM,84.0,77.0,79,30.11,7.0,NNE,5.8,-,N/A,,Scattered Clouds,30,1992-08-21 13:00:00<br />
+10:00 AM,84.9,75.9,74,30.11,7.0,SE,11.5,-,N/A,,Scattered Clouds,130,1992-08-21 14:00:00<br />
+11:00 AM,88.0,75.9,67,30.14,7.0,SE,11.5,-,N/A,,Mostly Cloudy,130,1992-08-21 15:00:00<br />
+11:22 AM,-9999,-9999,N/A,30.12,7.0,SE,9.2,-,N/A,Thunderstorm,Thunderstorm,130,1992-08-21 15:22:00<br />
+12:00 PM,89.1,75.0,63,30.12,7.0,SE,13.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,140,1992-08-21 16:00:00<br />
+12:40 PM,-9999,-9999,N/A,30.11,7.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1992-08-21 16:40:00<br />
+1:00 PM,91.9,73.9,55,30.12,7.0,SSE,13.8,-,N/A,,Mostly Cloudy,160,1992-08-21 17:00:00<br />
+2:00 PM,84.9,73.9,69,30.12,7.0,WSW,9.2,-,N/A,,Mostly Cloudy,250,1992-08-21 18:00:00<br />
+2:08 PM,-9999,-9999,N/A,30.12,7.0,NW,18.4,-,N/A,,Mostly Cloudy,320,1992-08-21 18:08:00<br />
+2:13 PM,-9999,-9999,N/A,30.12,7.0,NW,25.3,-,N/A,Thunderstorm,Thunderstorm,320,1992-08-21 18:13:00<br />
+3:00 PM,82.0,71.1,69,30.11,7.0,NNW,9.2,-,N/A,,Mostly Cloudy,330,1992-08-21 19:00:00<br />
+4:00 PM,80.1,73.0,79,30.09,7.0,North,13.8,19.6,N/A,,Mostly Cloudy,10,1992-08-21 20:00:00<br />
+5:00 PM,82.0,73.0,74,30.06,7.0,ENE,13.8,19.6,N/A,,Mostly Cloudy,60,1992-08-21 21:00:00<br />
+6:00 PM,84.0,75.9,76,30.04,7.0,ENE,16.1,-,N/A,,Mostly Cloudy,60,1992-08-21 22:00:00<br />
+7:00 PM,84.0,77.0,79,30.04,7.0,ENE,11.5,-,N/A,,Mostly Cloudy,70,1992-08-21 23:00:00<br />
+8:00 PM,84.0,75.9,76,30.06,7.0,East,9.2,-,N/A,,Mostly Cloudy,80,1992-08-22 00:00:00<br />
+9:00 PM,84.9,75.9,74,30.06,7.0,ESE,9.2,-,N/A,,Mostly Cloudy,110,1992-08-22 01:00:00<br />
+10:00 PM,84.0,75.9,76,30.11,7.0,East,9.2,-,N/A,,Scattered Clouds,80,1992-08-22 02:00:00<br />
+11:00 PM,82.9,75.9,79,30.12,7.0,East,6.9,-,N/A,,Scattered Clouds,90,1992-08-22 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/22/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,77.0,85,30.12,7.0,WNW,3.5,-,N/A,,Scattered Clouds,300,1992-08-22 04:00:00<br />
+1:00 AM,82.0,75.9,82,30.12,7.0,NNE,8.1,-,N/A,,Scattered Clouds,30,1992-08-22 05:00:00<br />
+2:00 AM,80.1,73.9,81,30.11,7.0,NE,9.2,-,N/A,,Mostly Cloudy,50,1992-08-22 06:00:00<br />
+3:00 AM,80.1,75.0,85,30.09,7.0,ENE,6.9,-,N/A,,Mostly Cloudy,60,1992-08-22 07:00:00<br />
+4:00 AM,80.1,75.9,87,30.07,7.0,North,4.6,-,N/A,,Mostly Cloudy,10,1992-08-22 08:00:00<br />
+5:00 AM,79.0,75.0,88,30.09,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,30,1992-08-22 09:00:00<br />
+6:00 AM,80.1,75.9,87,30.09,7.0,North,3.5,-,N/A,,Mostly Cloudy,360,1992-08-22 10:00:00<br />
+6:05 AM,-9999,-9999,N/A,30.09,7.0,South,10.4,-,N/A,Thunderstorm,Thunderstorm,170,1992-08-22 10:05:00<br />
+6:33 AM,-9999,-9999,N/A,30.10,1.0,SE,15.0,31.1,N/A,Rain-Thunderstorm,Thunderstorms and Rain,140,1992-08-22 10:33:00<br />
+6:37 AM,-9999,-9999,N/A,30.10,1.0,WSW,13.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,240,1992-08-22 10:37:00<br />
+6:59 AM,-9999,-9999,N/A,30.10,7.0,SW,8.1,-,N/A,Rain,Light Rain Showers,220,1992-08-22 10:59:00<br />
+7:00 AM,75.9,73.0,91,30.10,7.0,SW,8.1,-,0.35,Rain,Light Rain Showers,220,1992-08-22 11:00:00<br />
+8:00 AM,75.9,75.0,97,30.12,7.0,West,3.5,-,0.02,,Overcast,260,1992-08-22 12:00:00<br />
+9:00 AM,82.9,77.0,82,30.11,7.0,North,4.6,-,N/A,,Mostly Cloudy,360,1992-08-22 13:00:00<br />
+10:00 AM,82.9,77.0,82,30.11,7.0,NE,3.5,-,N/A,,Mostly Cloudy,50,1992-08-22 14:00:00<br />
+11:00 AM,88.0,75.9,67,30.12,7.0,NE,10.4,-,N/A,,Mostly Cloudy,50,1992-08-22 15:00:00<br />
+12:00 PM,88.0,75.0,65,30.12,7.0,East,9.2,-,N/A,,Mostly Cloudy,100,1992-08-22 16:00:00<br />
+1:00 PM,90.0,75.0,61,30.09,7.0,East,9.2,-,N/A,,Mostly Cloudy,100,1992-08-22 17:00:00<br />
+2:00 PM,90.0,73.9,59,30.09,7.0,East,13.8,-,N/A,,Mostly Cloudy,100,1992-08-22 18:00:00<br />
+3:00 PM,90.0,75.0,61,30.06,7.0,East,16.1,-,N/A,,Mostly Cloudy,100,1992-08-22 19:00:00<br />
+4:00 PM,89.1,73.9,61,30.04,7.0,ENE,11.5,-,N/A,,Mostly Cloudy,70,1992-08-22 20:00:00<br />
+5:00 PM,89.1,73.9,61,30.04,7.0,East,11.5,-,N/A,,Mostly Cloudy,90,1992-08-22 21:00:00<br />
+6:00 PM,89.1,73.9,61,30.04,7.0,East,15.0,-,N/A,,Mostly Cloudy,90,1992-08-22 22:00:00<br />
+7:00 PM,87.1,73.9,65,30.05,7.0,East,13.8,-,N/A,,Partly Cloudy,90,1992-08-22 23:00:00<br />
+8:00 PM,84.9,75.9,74,30.07,7.0,East,11.5,-,N/A,,Scattered Clouds,90,1992-08-23 00:00:00<br />
+9:00 PM,84.0,75.0,74,30.07,7.0,ESE,11.5,-,N/A,,Scattered Clouds,110,1992-08-23 01:00:00<br />
+10:00 PM,84.0,75.9,76,30.08,7.0,ENE,10.4,-,N/A,,Scattered Clouds,60,1992-08-23 02:00:00<br />
+11:00 PM,82.9,75.0,77,30.09,7.0,NE,11.5,-,N/A,,Scattered Clouds,50,1992-08-23 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/23/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,84.0,75.0,74,30.09,7.0,ENE,9.2,-,N/A,,Scattered Clouds,70,1992-08-23 04:00:00<br />
+1:00 AM,82.9,75.0,77,30.07,7.0,NNE,8.1,-,N/A,,Scattered Clouds,30,1992-08-23 05:00:00<br />
+2:00 AM,82.0,75.9,82,30.06,7.0,North,6.9,-,N/A,,Scattered Clouds,10,1992-08-23 06:00:00<br />
+3:00 AM,82.0,75.0,79,30.04,7.0,North,5.8,-,N/A,,Scattered Clouds,360,1992-08-23 07:00:00<br />
+4:00 AM,81.0,75.9,85,30.04,7.0,NNE,6.9,-,N/A,,Scattered Clouds,20,1992-08-23 08:00:00<br />
+5:00 AM,81.0,75.9,85,30.03,7.0,NNE,6.9,-,N/A,,Scattered Clouds,30,1992-08-23 09:00:00<br />
+6:00 AM,81.0,75.9,85,30.04,7.0,North,5.8,-,N/A,,Scattered Clouds,10,1992-08-23 10:00:00<br />
+7:00 AM,79.0,75.0,88,30.04,7.0,NNE,5.8,-,N/A,,Scattered Clouds,20,1992-08-23 11:00:00<br />
+8:00 AM,80.1,77.0,90,30.06,7.0,North,3.5,-,0.05,,Scattered Clouds,10,1992-08-23 12:00:00<br />
+9:00 AM,84.9,78.1,80,30.07,7.0,NE,5.8,-,N/A,,Partly Cloudy,40,1992-08-23 13:00:00<br />
+10:00 AM,88.0,75.9,67,30.07,7.0,NE,11.5,-,N/A,,Scattered Clouds,50,1992-08-23 14:00:00<br />
+11:00 AM,91.0,77.0,63,30.08,7.0,NNE,11.5,-,0.02,,Mostly Cloudy,30,1992-08-23 15:00:00<br />
+12:00 PM,88.0,75.9,67,30.08,7.0,NNE,15.0,-,N/A,,Unknown,20,1992-08-23 16:00:00<br />
+1:00 PM,89.1,75.0,63,30.06,7.0,NNE,15.0,-,N/A,,Scattered Clouds,30,1992-08-23 17:00:00<br />
+2:00 PM,89.1,75.0,63,30.04,7.0,NE,16.1,-,N/A,,Mostly Cloudy,40,1992-08-23 18:00:00<br />
+2:17 PM,-9999,-9999,N/A,30.05,7.0,NNE,16.1,-,N/A,Thunderstorm,Thunderstorm,20,1992-08-23 18:17:00<br />
+2:38 PM,-9999,-9999,N/A,30.02,7.0,NE,16.1,-,N/A,,Mostly Cloudy,40,1992-08-23 18:38:00<br />
+3:00 PM,90.0,75.0,61,30.01,7.0,ENE,11.5,-,N/A,,Mostly Cloudy,60,1992-08-23 19:00:00<br />
+4:00 PM,89.1,73.9,61,30.01,7.0,ENE,16.1,-,N/A,,Mostly Cloudy,60,1992-08-23 20:00:00<br />
+5:00 PM,89.1,75.0,63,29.99,7.0,NE,23.0,-,N/A,,Mostly Cloudy,50,1992-08-23 21:00:00<br />
+6:00 PM,88.0,75.0,65,29.99,7.0,NNE,16.1,-,N/A,,Mostly Cloudy,20,1992-08-23 22:00:00<br />
+7:00 PM,87.1,72.0,61,29.98,7.0,NNE,17.3,-,N/A,,Overcast,20,1992-08-23 23:00:00<br />
+7:55 PM,-9999,-9999,N/A,29.99,7.0,North,40.3,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,10,1992-08-23 23:55:00<br />
+8:00 PM,80.1,75.0,85,30.01,3.0,North,23.0,40.3,0.18,Rain,Rain Showers,10,1992-08-24 00:00:00<br />
+8:35 PM,-9999,-9999,N/A,29.99,7.0,North,11.5,-,N/A,,Overcast,10,1992-08-24 00:35:00<br />
+9:00 PM,81.0,75.9,85,29.99,7.0,North,9.2,-,0.05,,Overcast,360,1992-08-24 01:00:00<br />
+10:00 PM,80.1,75.0,85,29.98,7.0,North,16.1,-,N/A,,Mostly Cloudy,10,1992-08-24 02:00:00<br />
+11:00 PM,81.0,75.9,85,29.96,7.0,North,17.3,-,N/A,,Scattered Clouds,10,1992-08-24 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/24/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,81.0,77.0,88,29.92,7.0,North,13.8,-,N/A,,Scattered Clouds,10,1992-08-24 04:00:00<br />
+1:00 AM,82.9,75.0,77,29.90,7.0,North,17.3,34.5,N/A,,Mostly Cloudy,350,1992-08-24 05:00:00<br />
+2:00 AM,80.1,75.0,85,29.84,7.0,North,17.3,28.8,0.06,Rain,Light Rain Showers,350,1992-08-24 06:00:00<br />
+2:27 AM,-9999,-9999,N/A,29.79,6.0,North,28.8,40.3,N/A,Rain,Light Rain Showers,10,1992-08-24 06:27:00<br />
+2:32 AM,-9999,-9999,N/A,29.79,5.5,North,28.8,46.0,N/A,,Overcast,360,1992-08-24 06:32:00<br />
+2:38 AM,-9999,-9999,N/A,29.77,4.0,North,28.8,40.3,N/A,Rain,Rain Showers,360,1992-08-24 06:38:00<br />
+3:00 AM,78.1,75.0,90,29.73,5.0,North,28.8,40.3,0.31,Rain,Light Rain Showers,360,1992-08-24 07:00:00<br />
+3:05 AM,-9999,-9999,N/A,29.69,2.0,North,34.5,51.8,N/A,,Overcast,350,1992-08-24 07:05:00<br />
+3:15 AM,-9999,-9999,N/A,29.68,2.0,North,34.5,57.5,N/A,Rain,Rain Showers,360,1992-08-24 07:15:00<br />
+4:00 AM,78.1,75.0,90,29.55,2.0,North,46.0,69.0,0.39,Rain,Rain Showers,360,1992-08-24 08:00:00<br />
+5:00 AM,78.1,75.0,90,29.36,2.0,North,63.3,92.1,0.08,Rain,Rain Showers,360,1992-08-24 09:00:00<br />
+5:23 AM,-9999,-9999,N/A,29.35,1.0,NE,80.6,115.1,N/A,,Overcast,40,1992-08-24 09:23:00<br />
+6:00 AM,78.1,75.9,93,29.42,0.5,East,86.3,115.1,0.45,Rain,Rain Showers,100,1992-08-24 10:00:00<br />
+7:00 AM,77.0,75.0,94,29.63,0.5,ESE,86.3,103.6,0.46,Rain,Rain Showers,120,1992-08-24 11:00:00<br />
+7:17 AM,-9999,-9999,N/A,29.74,3.0,SE,80.6,92.1,N/A,Rain,Rain,140,1992-08-24 11:17:00<br />
+8:00 AM,75.0,72.0,90,29.81,4.0,SSE,69.0,80.6,0.04,Rain,Rain Showers,160,1992-08-24 12:00:00<br />
+9:00 AM,75.0,73.0,94,29.85,4.0,East,51.8,80.6,0.01,Rain,Light Rain,100,1992-08-24 13:00:00<br />
+10:00 AM,75.9,73.9,94,29.85,7.0,ESE,28.8,46.0,0.10,Rain,Light Rain Showers,120,1992-08-24 14:00:00<br />
+11:00 AM,75.9,73.9,94,29.99,4.0,SE,28.8,46.0,0.02,Fog-Rain,Light Rain Showers,140,1992-08-24 15:00:00<br />
+12:00 PM,81.0,75.9,85,29.99,6.0,South,13.8,-,0.02,Fog,Fog,180,1992-08-24 16:00:00<br />
+1:00 PM,84.0,75.9,76,30.00,7.0,SSE,17.3,-,N/A,,Overcast,160,1992-08-24 17:00:00<br />
+2:00 PM,84.9,75.9,74,30.01,7.0,SE,17.3,-,N/A,,Overcast,140,1992-08-24 18:00:00<br />
+3:00 PM,87.1,73.0,63,30.01,7.0,ESE,17.3,-,N/A,,Overcast,120,1992-08-24 19:00:00<br />
+4:00 PM,87.1,75.9,69,30.01,7.0,SE,18.4,-,N/A,,Overcast,130,1992-08-24 20:00:00<br />
+5:00 PM,84.9,77.0,77,29.99,7.0,SE,23.0,-,N/A,,Mostly Cloudy,130,1992-08-24 21:00:00<br />
+6:00 PM,84.9,75.9,74,30.01,7.0,SE,17.3,-,N/A,,Mostly Cloudy,130,1992-08-24 22:00:00<br />
+7:00 PM,84.0,75.0,74,30.01,7.0,SSE,13.8,-,N/A,,Mostly Cloudy,150,1992-08-24 23:00:00<br />
+8:00 PM,86.0,75.9,72,30.01,7.0,SE,17.3,-,N/A,,Mostly Cloudy,130,1992-08-25 00:00:00<br />
+8:18 PM,-9999,-9999,N/A,30.04,7.0,East,17.3,-,N/A,Thunderstorm,Thunderstorm,100,1992-08-25 00:18:00<br />
+9:00 PM,82.9,75.9,79,30.05,7.0,ESE,12.7,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,110,1992-08-25 01:00:00<br />
+9:02 PM,-9999,-9999,N/A,30.05,7.0,ESE,11.5,-,N/A,,Mostly Cloudy,110,1992-08-25 01:02:00<br />
+10:00 PM,82.9,75.9,79,30.06,7.0,East,13.8,-,N/A,,Mostly Cloudy,100,1992-08-25 02:00:00<br />
+11:00 PM,82.9,75.9,79,30.06,7.0,East,15.0,-,N/A,,Mostly Cloudy,100,1992-08-25 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/25/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.9,75.0,77,30.07,7.0,ESE,15.0,-,N/A,,Mostly Cloudy,110,1992-08-25 04:00:00<br />
+1:00 AM,82.0,75.0,79,30.06,3.0,East,15.0,28.8,0.09,Rain-Thunderstorm,Thunderstorms and Rain,100,1992-08-25 05:00:00<br />
+2:00 AM,81.0,75.0,82,30.06,7.0,East,9.2,-,0.05,,Mostly Cloudy,100,1992-08-25 06:00:00<br />
+3:00 AM,81.0,75.0,82,30.04,7.0,East,8.1,-,N/A,,Mostly Cloudy,90,1992-08-25 07:00:00<br />
+4:00 AM,80.1,73.9,81,30.04,7.0,East,8.1,-,N/A,,Scattered Clouds,90,1992-08-25 08:00:00<br />
+5:00 AM,80.1,73.0,79,30.04,7.0,East,6.9,-,N/A,,Scattered Clouds,90,1992-08-25 09:00:00<br />
+6:00 AM,80.1,73.0,79,30.06,7.0,East,6.9,-,N/A,,Scattered Clouds,90,1992-08-25 10:00:00<br />
+7:00 AM,79.0,75.0,88,30.07,7.0,East,5.8,-,N/A,,Scattered Clouds,90,1992-08-25 11:00:00<br />
+8:00 AM,81.0,75.0,82,30.08,7.0,East,5.8,-,N/A,,Scattered Clouds,100,1992-08-25 12:00:00<br />
+9:00 AM,82.9,75.9,79,30.09,7.0,East,9.2,-,N/A,,Scattered Clouds,90,1992-08-25 13:00:00<br />
+10:00 AM,86.0,75.0,70,30.11,7.0,East,13.8,-,N/A,,Scattered Clouds,100,1992-08-25 14:00:00<br />
+11:00 AM,86.0,73.9,67,30.11,7.0,East,9.2,-,N/A,,Unknown,90,1992-08-25 15:00:00<br />
+12:00 PM,90.0,73.0,57,30.12,7.0,East,9.2,-,N/A,,Scattered Clouds,100,1992-08-25 16:00:00<br />
+1:00 PM,93.0,75.0,56,30.12,7.0,ESE,13.8,-,N/A,,Scattered Clouds,110,1992-08-25 17:00:00<br />
+2:00 PM,93.9,73.0,51,30.11,7.0,East,10.4,-,N/A,,Scattered Clouds,90,1992-08-25 18:00:00<br />
+3:00 PM,91.9,73.9,55,30.09,7.0,East,8.1,-,N/A,,Scattered Clouds,100,1992-08-25 19:00:00<br />
+4:00 PM,91.0,73.0,55,30.08,7.0,ESE,9.2,-,N/A,,Scattered Clouds,120,1992-08-25 20:00:00<br />
+5:00 PM,90.0,75.0,61,30.07,7.0,East,9.2,-,N/A,,Scattered Clouds,90,1992-08-25 21:00:00<br />
+6:00 PM,88.0,75.9,67,30.07,7.0,East,5.8,-,0.02,,Scattered Clouds,90,1992-08-25 22:00:00<br />
+7:00 PM,88.0,75.0,65,30.07,7.0,East,6.9,-,N/A,,Scattered Clouds,100,1992-08-25 23:00:00<br />
+8:00 PM,84.9,73.0,67,30.09,7.0,East,6.9,-,N/A,,Partly Cloudy,90,1992-08-26 00:00:00<br />
+9:00 PM,84.0,72.0,67,30.09,7.0,ENE,5.8,-,N/A,,Partly Cloudy,70,1992-08-26 01:00:00<br />
+10:00 PM,84.0,73.9,72,30.11,7.0,East,5.8,-,N/A,,Scattered Clouds,80,1992-08-26 02:00:00<br />
+11:00 PM,82.9,73.9,74,30.12,7.0,East,5.8,-,N/A,,Scattered Clouds,90,1992-08-26 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/26/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.9,73.9,74,30.11,7.0,East,6.9,-,N/A,,Scattered Clouds,90,1992-08-26 04:00:00<br />
+1:00 AM,82.0,73.9,76,30.11,7.0,East,5.8,-,N/A,,Scattered Clouds,90,1992-08-26 05:00:00<br />
+2:00 AM,81.0,73.9,79,30.11,7.0,NE,2.3,-,N/A,,Scattered Clouds,40,1992-08-26 06:00:00<br />
+3:00 AM,80.1,72.0,76,30.09,7.0,NNE,3.5,-,N/A,,Scattered Clouds,20,1992-08-26 07:00:00<br />
+4:00 AM,79.0,73.9,84,30.07,7.0,North,4.6,-,N/A,,Scattered Clouds,10,1992-08-26 08:00:00<br />
+5:00 AM,79.0,73.9,84,30.07,7.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1992-08-26 09:00:00<br />
+6:00 AM,80.1,75.0,85,30.07,7.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1992-08-26 10:00:00<br />
+7:00 AM,79.0,75.0,88,30.09,7.0,SE,5.8,-,N/A,,Mostly Cloudy,140,1992-08-26 11:00:00<br />
+8:00 AM,80.1,73.9,81,30.11,7.0,SSE,4.6,-,N/A,,Mostly Cloudy,150,1992-08-26 12:00:00<br />
+9:00 AM,82.0,75.0,79,30.12,7.0,SE,6.9,-,N/A,,Overcast,140,1992-08-26 13:00:00<br />
+10:00 AM,84.0,73.9,72,30.13,7.0,ESE,8.1,-,N/A,,Overcast,110,1992-08-26 14:00:00<br />
+11:00 AM,88.0,73.0,61,30.14,7.0,East,6.9,-,N/A,,Mostly Cloudy,100,1992-08-26 15:00:00<br />
+12:00 PM,89.1,73.0,59,30.14,7.0,East,5.8,-,N/A,,Mostly Cloudy,90,1992-08-26 16:00:00<br />
+1:00 PM,90.0,72.0,55,30.13,7.0,East,6.9,-,N/A,,Mostly Cloudy,90,1992-08-26 17:00:00<br />
+2:00 PM,90.0,71.1,54,30.12,7.0,East,6.9,-,N/A,,Mostly Cloudy,90,1992-08-26 18:00:00<br />
+3:00 PM,91.0,70.0,50,30.11,7.0,ENE,8.1,-,N/A,,Mostly Cloudy,70,1992-08-26 19:00:00<br />
+4:00 PM,90.0,70.0,52,30.09,7.0,East,5.8,-,N/A,,Scattered Clouds,80,1992-08-26 20:00:00<br />
+5:00 PM,87.1,70.0,57,30.08,7.0,ENE,6.9,-,N/A,,Scattered Clouds,70,1992-08-26 21:00:00<br />
+6:00 PM,87.1,72.0,61,30.07,7.0,East,9.2,-,N/A,,Unknown,80,1992-08-26 22:00:00<br />
+7:00 PM,86.0,72.0,63,30.07,7.0,East,6.9,-,N/A,,Mostly Cloudy,90,1992-08-26 23:00:00<br />
+8:00 PM,84.0,72.0,67,30.09,7.0,ENE,10.4,-,N/A,,Mostly Cloudy,60,1992-08-27 00:00:00<br />
+9:00 PM,82.9,72.0,69,30.12,7.0,East,8.1,-,N/A,,Mostly Cloudy,80,1992-08-27 01:00:00<br />
+10:00 PM,82.9,73.0,72,30.12,7.0,East,12.7,-,N/A,,Mostly Cloudy,90,1992-08-27 02:00:00<br />
+11:00 PM,81.0,73.9,79,30.14,7.0,ENE,6.9,-,N/A,,Scattered Clouds,70,1992-08-27 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/27/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,72.0,71,30.14,7.0,East,6.9,-,N/A,,Clear,80,1992-08-27 04:00:00<br />
+1:00 AM,80.1,73.0,79,30.11,7.0,East,5.8,-,N/A,,Scattered Clouds,90,1992-08-27 05:00:00<br />
+2:00 AM,80.1,73.0,79,30.11,7.0,East,6.9,-,N/A,,Partly Cloudy,90,1992-08-27 06:00:00<br />
+3:00 AM,80.1,73.0,79,30.09,7.0,East,6.9,-,N/A,,Mostly Cloudy,90,1992-08-27 07:00:00<br />
+4:00 AM,79.0,73.0,82,30.07,7.0,East,6.9,-,N/A,,Mostly Cloudy,80,1992-08-27 08:00:00<br />
+5:00 AM,78.1,73.0,84,30.07,7.0,East,4.6,-,N/A,,Mostly Cloudy,100,1992-08-27 09:00:00<br />
+6:00 AM,80.1,73.0,79,30.08,7.0,NW,3.5,-,N/A,,Mostly Cloudy,320,1992-08-27 10:00:00<br />
+7:00 AM,79.0,73.0,82,30.09,7.0,NNW,2.3,-,N/A,,Mostly Cloudy,330,1992-08-27 11:00:00<br />
+8:00 AM,81.0,73.0,77,30.09,7.0,NNW,3.5,-,N/A,,Mostly Cloudy,340,1992-08-27 12:00:00<br />
+9:00 AM,84.0,73.0,69,30.11,7.0,East,5.8,-,N/A,,Mostly Cloudy,90,1992-08-27 13:00:00<br />
+10:00 AM,87.1,72.0,61,30.12,7.0,SE,8.1,-,N/A,,Mostly Cloudy,130,1992-08-27 14:00:00<br />
+11:00 AM,87.1,71.1,59,30.12,7.0,SE,5.8,-,N/A,,Mostly Cloudy,140,1992-08-27 15:00:00<br />
+12:00 PM,88.0,72.0,59,30.12,7.0,ESE,8.1,-,N/A,,Mostly Cloudy,120,1992-08-27 16:00:00<br />
+1:00 PM,90.0,71.1,54,30.11,7.0,SE,12.7,-,N/A,,Mostly Cloudy,130,1992-08-27 17:00:00<br />
+2:00 PM,90.0,71.1,54,30.09,7.0,ESE,11.5,-,N/A,,Unknown,110,1992-08-27 18:00:00<br />
+3:00 PM,91.0,68.0,47,30.06,7.0,SSE,9.2,-,N/A,,Mostly Cloudy,160,1992-08-27 19:00:00<br />
+4:00 PM,88.0,71.1,57,30.04,7.0,SE,12.7,-,N/A,,Mostly Cloudy,140,1992-08-27 20:00:00<br />
+5:00 PM,84.9,68.0,57,30.04,7.0,SW,11.5,-,N/A,,Unknown,220,1992-08-27 21:00:00<br />
+6:00 PM,86.0,69.1,57,30.03,7.0,SE,6.9,-,N/A,,Mostly Cloudy,130,1992-08-27 22:00:00<br />
+7:00 PM,84.9,70.0,61,30.04,7.0,South,5.8,-,N/A,,Mostly Cloudy,180,1992-08-27 23:00:00<br />
+8:00 PM,84.0,73.0,69,30.04,7.0,South,5.8,-,N/A,,Unknown,180,1992-08-28 00:00:00<br />
+9:00 PM,84.0,73.0,69,30.07,7.0,SSE,9.2,-,N/A,,Mostly Cloudy,160,1992-08-28 01:00:00<br />
+10:00 PM,82.9,73.9,74,30.09,7.0,South,6.9,-,N/A,,Mostly Cloudy,180,1992-08-28 02:00:00<br />
+11:00 PM,82.0,73.0,74,30.09,7.0,South,5.8,-,N/A,,Mostly Cloudy,180,1992-08-28 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/28/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.0,73.0,74,30.11,7.0,SW,6.9,-,N/A,,Scattered Clouds,220,1992-08-28 04:00:00<br />
+1:00 AM,81.0,73.9,79,30.09,7.0,SW,3.5,-,N/A,,Scattered Clouds,220,1992-08-28 05:00:00<br />
+2:00 AM,79.0,73.9,84,30.06,7.0,SSW,3.5,-,N/A,,Scattered Clouds,200,1992-08-28 06:00:00<br />
+3:00 AM,80.1,73.9,81,30.05,7.0,South,5.8,-,N/A,,Clear,180,1992-08-28 07:00:00<br />
+4:00 AM,79.0,73.9,84,30.05,7.0,SW,5.8,-,N/A,,Scattered Clouds,220,1992-08-28 08:00:00<br />
+5:00 AM,80.1,73.9,81,30.06,7.0,SW,6.9,-,N/A,,Mostly Cloudy,220,1992-08-28 09:00:00<br />
+6:00 AM,80.1,73.0,79,30.06,7.0,SW,5.8,-,N/A,,Mostly Cloudy,230,1992-08-28 10:00:00<br />
+7:00 AM,79.0,73.0,82,30.06,7.0,SW,3.5,-,N/A,,Mostly Cloudy,230,1992-08-28 11:00:00<br />
+8:00 AM,80.1,73.0,79,30.07,7.0,SSW,2.3,-,N/A,,Mostly Cloudy,210,1992-08-28 12:00:00<br />
+9:00 AM,82.9,75.0,77,30.08,7.0,SW,6.9,-,N/A,,Mostly Cloudy,220,1992-08-28 13:00:00<br />
+10:00 AM,86.0,73.9,67,30.09,7.0,South,8.1,-,N/A,,Mostly Cloudy,190,1992-08-28 14:00:00<br />
+11:00 AM,89.1,73.0,59,30.09,7.0,SSW,9.2,-,N/A,,Mostly Cloudy,200,1992-08-28 15:00:00<br />
+12:00 PM,88.0,72.0,59,30.09,7.0,SSW,8.1,-,N/A,,Mostly Cloudy,210,1992-08-28 16:00:00<br />
+12:55 PM,-9999,-9999,N/A,30.08,7.0,South,17.3,-,N/A,Thunderstorm,Thunderstorm,180,1992-08-28 16:55:00<br />
+1:00 PM,90.0,73.9,59,30.08,7.0,SE,6.9,-,N/A,,Scattered Clouds,140,1992-08-28 17:00:00<br />
+1:28 PM,-9999,-9999,N/A,30.07,7.0,SE,13.8,-,N/A,,Mostly Cloudy,130,1992-08-28 17:28:00<br />
+2:00 PM,84.9,72.0,65,30.07,7.0,SE,12.7,-,N/A,,Mostly Cloudy,130,1992-08-28 18:00:00<br />
+3:00 PM,90.0,73.9,59,30.04,7.0,SSE,5.8,-,N/A,,Mostly Cloudy,160,1992-08-28 19:00:00<br />
+4:00 PM,91.0,72.0,53,30.01,7.0,SW,6.9,-,N/A,,Scattered Clouds,230,1992-08-28 20:00:00<br />
+5:00 PM,91.0,72.0,53,30.01,7.0,SW,12.7,-,N/A,,Partly Cloudy,230,1992-08-28 21:00:00<br />
+6:00 PM,89.1,72.0,57,30.01,7.0,West,6.9,-,N/A,,Scattered Clouds,260,1992-08-28 22:00:00<br />
+7:00 PM,88.0,72.0,59,30.01,7.0,West,6.9,-,N/A,,Mostly Cloudy,270,1992-08-28 23:00:00<br />
+8:00 PM,88.0,73.9,63,30.01,7.0,WSW,8.1,-,N/A,,Mostly Cloudy,250,1992-08-29 00:00:00<br />
+9:00 PM,86.0,72.0,63,30.04,7.0,WSW,5.8,-,N/A,,Scattered Clouds,240,1992-08-29 01:00:00<br />
+10:00 PM,84.9,72.0,65,30.07,7.0,SW,9.2,-,N/A,,Mostly Cloudy,220,1992-08-29 02:00:00<br />
+11:00 PM,84.9,72.0,65,30.09,7.0,West,3.5,-,N/A,,Mostly Cloudy,270,1992-08-29 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/29/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,82.9,73.9,74,30.09,7.0,West,3.5,-,N/A,,Partly Cloudy,260,1992-08-29 04:00:00<br />
+1:00 AM,82.0,73.9,76,30.07,7.0,WNW,5.8,-,N/A,,Clear,300,1992-08-29 05:00:00<br />
+2:00 AM,81.0,73.9,79,30.07,7.0,NW,2.3,-,N/A,,Clear,320,1992-08-29 06:00:00<br />
+3:00 AM,79.0,73.9,84,30.06,7.0,NW,2.3,-,N/A,,Clear,320,1992-08-29 07:00:00<br />
+4:00 AM,79.0,73.9,84,30.04,7.0,SW,2.3,-,N/A,,Clear,230,1992-08-29 08:00:00<br />
+5:00 AM,79.0,73.9,84,30.05,7.0,SW,4.6,-,N/A,,Scattered Clouds,220,1992-08-29 09:00:00<br />
+6:00 AM,79.0,73.9,84,30.06,7.0,SSW,3.5,-,N/A,,Scattered Clouds,210,1992-08-29 10:00:00<br />
+7:00 AM,78.1,73.9,87,30.06,7.0,WNW,3.5,-,N/A,,Scattered Clouds,300,1992-08-29 11:00:00<br />
+8:00 AM,79.0,75.0,88,30.09,7.0,SSW,3.5,-,N/A,,Scattered Clouds,210,1992-08-29 12:00:00<br />
+9:00 AM,84.0,73.9,72,30.09,7.0,WSW,3.5,-,N/A,,Mostly Cloudy,240,1992-08-29 13:00:00<br />
+10:00 AM,87.1,75.0,67,30.10,7.0,West,5.8,-,N/A,,Mostly Cloudy,260,1992-08-29 14:00:00<br />
+11:00 AM,88.0,73.9,63,30.10,7.0,South,8.1,-,N/A,,Mostly Cloudy,180,1992-08-29 15:00:00<br />
+12:00 PM,89.1,73.0,59,30.09,7.0,SSW,9.2,-,N/A,,Mostly Cloudy,200,1992-08-29 16:00:00<br />
+1:00 PM,90.0,73.9,59,30.09,7.0,South,12.7,-,N/A,,Mostly Cloudy,170,1992-08-29 17:00:00<br />
+1:28 PM,-9999,-9999,N/A,30.07,7.0,SE,23.0,31.1,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,130,1992-08-29 17:28:00<br />
+2:00 PM,82.0,73.0,74,30.09,3.0,ENE,12.7,-,0.43,Rain-Thunderstorm,Thunderstorms and Rain,70,1992-08-29 18:00:00<br />
+2:15 PM,-9999,-9999,N/A,30.10,1.0,East,17.3,28.8,N/A,Rain-Thunderstorm,Thunderstorms and Rain,90,1992-08-29 18:15:00<br />
+2:40 PM,-9999,-9999,N/A,30.10,3.0,ENE,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,70,1992-08-29 18:40:00<br />
+3:00 PM,77.0,73.0,88,30.11,3.0,SW,6.9,-,1.26,Rain-Thunderstorm,Light Thunderstorms and Rain,230,1992-08-29 19:00:00<br />
+4:00 PM,75.0,72.0,90,30.07,6.0,WSW,8.1,-,0.09,Rain-Thunderstorm,Light Thunderstorms and Rain,240,1992-08-29 20:00:00<br />
+4:50 PM,75.9,72.0,87,30.06,7.0,SW,6.9,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,230,1992-08-29 20:50:00<br />
+5:00 PM,75.9,71.1,85,30.06,7.0,SW,6.9,-,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,230,1992-08-29 21:00:00<br />
+5:18 PM,-9999,-9999,N/A,30.09,7.0,WSW,8.1,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,250,1992-08-29 21:18:00<br />
+6:00 PM,75.0,72.0,90,30.09,7.0,WNW,5.8,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,290,1992-08-29 22:00:00<br />
+7:00 PM,75.0,73.0,94,30.10,7.0,WSW,4.6,-,0.04,Rain-Thunderstorm,Light Thunderstorms and Rain,240,1992-08-29 23:00:00<br />
+8:00 PM,73.9,72.0,93,30.13,7.0,WNW,9.2,-,0.11,Rain-Thunderstorm,Light Thunderstorms and Rain,300,1992-08-30 00:00:00<br />
+9:00 PM,73.9,72.0,93,30.15,7.0,NW,5.8,-,0.12,Rain-Thunderstorm,Thunderstorms and Rain,310,1992-08-30 01:00:00<br />
+9:30 PM,-9999,-9999,N/A,30.12,7.0,ESE,10.4,-,N/A,Rain,Rain Showers,110,1992-08-30 01:30:00<br />
+10:00 PM,73.9,72.0,93,30.11,7.0,ESE,9.2,-,0.13,Rain,Light Rain,120,1992-08-30 02:00:00<br />
+11:00 PM,73.9,73.0,97,30.12,7.0,SW,5.8,-,0.02,,Overcast,220,1992-08-30 03:00:00<br />
+--_curl_--http://www.wunderground.com/history/airport/MIA/1992/08/30/DailyHistory.html?&format=1
+
+TimeEDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC<br />
+12:00 AM,75.0,73.0,94,30.12,7.0,NNE,4.6,-,N/A,,Overcast,20,1992-08-30 04:00:00<br />
+1:00 AM,75.0,73.0,94,30.12,7.0,Calm,Calm,-,N/A,,Overcast,0,1992-08-30 05:00:00<br />
+2:00 AM,75.0,73.0,94,30.11,7.0,North,3.5,-,N/A,,Scattered Clouds,350,1992-08-30 06:00:00<br />
+3:00 AM,75.0,73.0,94,30.09,7.0,NW,4.6,-,N/A,,Scattered Clouds,320,1992-08-30 07:00:00<br />
+4:00 AM,73.9,73.0,97,30.09,7.0,North,3.5,-,N/A,,Mostly Cloudy,10,1992-08-30 08:00:00<br />
+5:00 AM,73.9,73.0,97,30.09,7.0,NNE,5.8,-,N/A,,Mostly Cloudy,30,1992-08-30 09:00:00<br />
+6:00 AM,73.9,72.0,93,30.09,7.0,NE,3.5,-,N/A,,Mostly Cloudy,40,1992-08-30 10:00:00<br />
+7:00 AM,73.9,73.0,97,30.11,7.0,SW,2.3,-,N/A,,Mostly Cloudy,220,1992-08-30 11:00:00<br />
+8:00 AM,75.9,73.0,91,30.12,7.0,NW,4.6,-,N/A,,Mostly Cloudy,310,1992-08-30 12:00:00<br />
+9:00 AM,81.0,73.9,79,30.13,7.0,NNW,4.6,-,N/A,,Mostly Cloudy,340,1992-08-30 13:00:00<br />
+10:00 AM,86.0,75.0,70,30.14,7.0,East,5.8,-,N/A,,Mostly Cloudy,100,1992-08-30 14:00:00<br />
+11:00 AM,86.0,73.0,65,30.16,7.0,SSE,3.5,-,N/A,,Mostly Cloudy,160,1992-08-30 15:00:00<br />
+12:00 PM,89.1,73.9,61,30.15,7.0,South,4.6,-,N/A,,Scattered Clouds,170,1992-08-30 16:00:00<br />
+1:00 PM,86.0,73.9,67,30.14,7.0,NE,8.1,-,N/A,,Scattered Clouds,40,1992-08-30 17:00:00<br />
+1:07 PM,-9999,-9999,N/A,30.13,7.0,North,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,10,1992-08-30 17:07:00<br />
+2:00 PM,79.0,73.9,84,30.14,7.0,NNW,11.5,-,0.55,,Mostly Cloudy,330,1992-08-30 18:00:00<br />
+2:20 PM,-9999,-9999,N/A,30.14,7.0,NW,12.7,-,N/A,Thunderstorm,Thunderstorm,320,1992-08-30 18:20:00<br />
+3:00 PM,78.1,72.0,81,30.12,7.0,West,6.9,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,270,1992-08-30 19:00:00<br />
+3:28 PM,-9999,-9999,N/A,30.12,7.0,West,6.9,-,N/A,,Mostly Cloudy,270,1992-08-30 19:28:00<br />
+4:00 PM,80.1,72.0,76,30.12,7.0,WSW,5.8,-,N/A,,Mostly Cloudy,250,1992-08-30 20:00:00<br />
+5:00 PM,80.1,70.0,71,30.11,7.0,WNW,4.6,-,N/A,,Mostly Cloudy,290,1992-08-30 21:00:00<br />
+6:00 PM,80.1,70.0,71,30.09,7.0,West,5.8,-,N/A,,Mostly Cloudy,280,1992-08-30 22:00:00<br />
+7:00 PM,81.0,71.1,72,30.07,7.0,East,5.8,-,N/A,,Mostly Cloudy,90,1992-08-30 23:00:00<br />
+8:00 PM,80.1,72.0,76,30.09,7.0,WNW,5.8,-,N/A,,Scattered Clouds,300,1992-08-31 00:00:00<br />
+9:00 PM,78.1,72.0,81,30.12,7.0,NW,4.6,-,N/A,,Partly Cloudy,310,1992-08-31 01:00:00<br />
+10:00 PM,78.1,73.9,87,30.13,7.0,NNW,3.5,-,N/A,,Partly Cloudy,330,1992-08-31 02:00:00<br />
+11:00 PM,77.0,73.9,90,30.14,7.0,North,4.6,-,N/A,,Partly Cloudy,10,1992-08-31 03:00:00<br />

@@ -161,6 +161,53 @@ grep -l "GAATTC" ../02-examples/*.seq > has_EcoRI.txt
 If you want to count the number of sample files that process_radtags has generated:
 ls ./*.fq > fasta.txt | wc fasta.txt
 
+Curl - "see url" will pull info from the web
+
+curl "http://www.rcsb.org/pdb/files/iema.pdb"
+
+Output is long but starts with:
+HEADER    FLUORESCENT PROTEIN                     01-AUG-96   1EMA              
+TITLE     GREEN FLUORESCENT PROTEIN FROM AEQUOREA VICTORIA                      
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: GREEN FLUORESCENT PROTEIN;                                 
+COMPND   3 CHAIN: A;                                                            
+
+Save the info to a file:
+curl "http://www.rcsb.org/pdb/files/1ema.pdb" > 1ema.pdb
+
+Output:
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  186k    0  186k    0     0   404k      0 --:--:-- --:--:-- --:--:--  404k
+
+Can do the same thing with an -o operator:
+curl "http://www.rcsb.org/pdb/files/1ema.pdb" -o 1ema.pdb
+
+
+Can also download a range of files in one step, download all of the weather data for August:
+
+curl "http://www.wunderground.com/history/airport/MIA/1992/08/[1-30]/DailyHistory.html?&format=1" >>miamiweather.txt
+
+Output:
+[1/30]: http://www.wunderground.com/history/airport/MIA/1992/08/1/DailyHistory.html?&format=1 --> <stdout>
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  2352    0  2352    0     0    975      0 --:--:--  0:00:02 --:--:--   975
+
+[2/30]: http://www.wunderground.com/history/airport/MIA/1992/08/2/DailyHistory.html?&format=1 --> <stdout>
+100  2400    0  2400    0     0   4890      0 --:--:-- --:--:-- --:--:--  6030
+
+Notice that the date is variable [1-30] and that the output is appending into the file instead of overwriting.
+
+Instead of appending to one file, we can create a different file for each day:
+
+curl "http://www.wunderground.com/history/airport/MIA/1979/[01-12]/01/DailyHistory.html?&format=1" -o Miami_1979_#1.txt
+
+If one part of the url is changing and not in a predictable manner, you can form a more complex query:
+
+curl "http://www.rcsb.org/pdb/files/{1ema,1gfl,1g7k,1xmz}.pdb"
+
+
 
 
 
