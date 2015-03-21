@@ -99,6 +99,10 @@ if you want to exclude something from your search use -v...find all of the recor
 
 grep -v "Toolik Lake" ../02-examples/shaver_etal.csv
 
+You can use pipe to redirect the output of one command directly to the input of another, here we search for any mention of Toolik in the history
+
+history | grep Toolik
+
 
 
 
