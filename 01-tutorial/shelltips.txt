@@ -71,6 +71,24 @@ A new file is in the directory with the above name :)
 
 This could be really helpful in combining process radtags output files.
 
+Extract records from a .csv that only contain the parameters we want.
+
+grep using regular expressions - this example is literal but you can use regex, grep scans the file and displays only the lines that contain the search phrase. Adding -i will tell grep to search for both upper and lowercase in "Toolik Lake"
+
+grep "Toolik Lake" ../02-examples/shaver_etal.csv
+
+Output is huge but starts with:
+2003,11-Jul-03,Toolik,Toolik Lake,Control,1,n/a,Betula,20cm x 20cm,ARC ALP,D,ALL,0.00660,0.00048,0.480,13.752,,,,,,,,,,,,,
+2003,11-Jul-03,Toolik,Toolik Lake,Control,1,n/a,Betula,20cm x 20cm,BET NAN,D,ALL,0.06239,0.00345,3.454,18.062,,,,,,,,,
+2003,11-Jul-03,Toolik,Toolik Lake,Control,1,n/a,Betula,20cm x 20cm,DECID ,D,ALL,0.00071,0.00004,0.037,19.135,,,,,,,,,
+2003,11-Jul-03,Toolik,Toolik Lake,Control,1,n/a,Betula,20cm x 20cm,GRAM,GRM,ALL,0.00050,0.00004,0.042,11.905,,,,,,,,,
+
+Because the output is so large, redo the grep and output it to a new file:
+
+grep "Toolik Lake" ../02-examples/shaver_etal.csv > toolik.csv
+
+This new file doesnt' have a header but you can copy and paste one over from the original file using nano, subl, or create a file with only the header and use cat to join it to the new file.
+
 
 
 
